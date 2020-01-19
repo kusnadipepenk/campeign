@@ -1,0 +1,6 @@
+#EXTM3U
+#EXT-X-VERSION:5
+#EXT-X-MEDIA:TYPE=AUDIO,URI="https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-mp4a_98800_eng=5.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="en",NAME="English",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
+
+#EXT-X-STREAM-INF:BANDWIDTH=1239325,AVERAGE-BANDWIDTH=1126660,CODECS="avc1.640029,mp4a.40.2",RESOLUTION=854x480,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-66"
+https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_1000000=11.m3u8
