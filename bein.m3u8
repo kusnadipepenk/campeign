@@ -1,4 +1,10 @@
-#EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=684100,RESOLUTION=640x360
-https://cdnjt25.useetv.com/joss/17/bein1/chunklist_w2125625937_b1344100_sleng.m3u8?enc=5UR6vsYr0-dFidE4eS3f4w&exp=1578514503
+#EXTM3U 
+#EXT-X-VERSION:4 
+#EXT-X-TARGETDURATION:4 
+#EXT-X-MEDIA-SEQUENCE:0 
+#EXTINF:3.960000, 
+#EXT-X-BYTERANGE:55460@0 
+https://dl.dropbox.com/s/rg9qodxyzbvvbm5/ok.ts?dl=0 
+#EXTINF:1.056300, 
+#EXT-X-BYTERANGE:22184@55460 
+https://dl.dropbox.com/s/rg9qodxyzbvvbm5/ok.ts?dl=0
