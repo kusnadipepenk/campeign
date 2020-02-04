@@ -79,6 +79,10 @@ https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_499968=12-
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qd7GcLV/foxsport.jpg" group-title="EMENSIPNY",FOX-SPORTS3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_499968=12-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports1.th.png" group-title="EMENSIPNY",beIN Sports 1 Asia
+https://anevia114.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1-avc1_499968=12-BeIN1-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/th/beINSports2.th.png" group-title="EMENSIPNY",beIN Sports 2 Asia
+https://anevia114.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2-avc1_499968=12-BeIN2-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EMENSIPNY",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/MNCSports.id.png" group-title="EMENSIPNY",MNC SPORT
