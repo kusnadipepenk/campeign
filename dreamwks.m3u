@@ -6,13 +6,13 @@ https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",KOMPAS TV
 https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="EMENSIPNY",NET. TV(3)
-https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV-avc1_499968=10-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="EMENSIPNY",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV-avc1_499968=9-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",RCTI
-https://anevia114.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
+https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",ANTV
-https://anevia114.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
+https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="EMENSIPNY",DISNEY-CHANELS id
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-mp4a_98800_ind=9.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DisneyXD
