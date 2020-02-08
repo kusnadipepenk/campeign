@@ -3,6 +3,8 @@
 https://liveanevia.mncnow.id/live/eds/MetroTV/sa_hls/MetroTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",MNC
 https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
+#EXTINF:-1 group-title="EMENSIPNY",MNCTV
+https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",KOMPAS TV
 https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="EMENSIPNY",NET. TV(3)
@@ -13,6 +15,8 @@ https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",ANTV
 https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
+#EXTINF:-1 group-title="EMENSIPNY",Disney Jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="EMENSIPNY",DISNEY-CHANELS id
 https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4-mp4a_98800_ind=9.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DisneyXD
@@ -35,6 +39,8 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_499968=12-mp
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_499968=13-mp4a_98800_eng=4.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="EMENSIPNY",Nat-Geo-WILD ID
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_499968=12-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 group-title="EMENSIPNY",Nat Geo People
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="EMENSIPNY",HISTORY ID
 https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DISCOVERY ID
