@@ -137,6 +137,27 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u8
 
 
-#EXTINF:-1 group-title="EMENSIPNY" tvg-logo="https://macan.live/img/kbs_world.png", KBS World
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png", FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/hbo.png", HBO
+https://delivery.macan.live/stream/hbo/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/kbs_world.png", KBS World
 https://delivery.macan.live/stream/kbs_world/index.m3u8?token=BnCg4oKx&v=20200202
-
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/macanlogo.png", MACAN Special Sport 1
+https://delivery.macan.live/stream/macan_event_1/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/macanlogo.png", MACAN Special Sport 2
+https://delivery.macan.live/stream/macan_event_2/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/macanlogo.png", MACAN Special Sport 3
+https://delivery.macan.live/stream/macan_event_3/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/useetv.png", Useesports 1
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/useetv.png", Useesports 2
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/champions1.png", Champions 1 TV
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/champions2.png", Champions 2 TV
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=BnCg4oKx&v=20200202
