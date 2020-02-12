@@ -30,9 +30,9 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CARTON NETW ID
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="EMENSIPNY",Nickelodeon ID
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_499968=7-mp4a_98800_eng=4.m3u8
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="EMENSIPNY",NICK Junior
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_499968=7-mp4a_98800_eng=4.m3u8
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",BBC EARTH
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="EMENSIPNY",Nat-Geo ID
@@ -42,17 +42,17 @@ https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
 #EXTINF:-1 group-title="EMENSIPNY",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="EMENSIPNY",HISTORY ID
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_499968=10-mp4a_98800_eng=3.m3u8
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DISCOVERY ID
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_499968=14-mp4a_98800_eng=5.m3u8
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Animal PlanetS
-https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_499968=18-mp4a_98800_eng=3.m3u8
+https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_499968=9-mp4a_98800_eng=3.m3u8
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",LIFETIME
-https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-mp4a_98800_eng=3.m3u8
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN Drama
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN sbtl
@@ -137,14 +137,22 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u8
 
 
-#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png", FOX Movies Premium
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png",FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png",FOX Movies RD
+http://103.28.148.206:25461/Rdhok/U.Rdhok/98?token=QhBYV0dYRg4TCV0KW10AVFZQAgpeWFZdD1EHBgAHBVMMAwEEBwhVUgIaSBAQEEJXVQhvWgIbCVwBGBJEElMTPVBWEgwWBl0NAw5GHkEQWV9RRwoCUwECUQAFBwJSGkMSUFYSDBYBVwEJDkYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwpWC1BGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAUcVFl1eD18VDUttQF9QEl4WAw5cAVtGTQ==
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_action_movies.png",FOX Action RD
+http://202.83.123.74:25461/Rdhok/U.Rdhok/1125?token=QhBYV0dYRg4TAQdQAgFUAFVWVVJSWwdWCAZTAQNSU1cABgBVAQMABlAaSBAQEEJXVQhvWgIbCVQIBgUdQ0MSB0ttWVIWCkYCCAFWBEFIEkZdCFURXAgGXQgACQBWBVZOG0JZUhYKRgcBDVwLQUgSV0wRVUEIWF86XVFGWAJTQ1hXR1xaGBILWm5cAV8CClQQDkcAEUobWhZJFgpfFFoNThtQWUJGURBREwJGA1JUAxAYR1NcE1dHF0AWChMockNOG1dIQlFeF11eVkYIQRBDEBhHWUA5S1YWTUZVUAxTE0ADEAAUGBIJVUlnB10NClVRQAxfXRUbCUcLFhwTDFkPC01dQmlEWQAWCxpVB1BRCBBJ
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png",FOX Family RD
+http://103.28.148.206:25461/Rdhok/U.Rdhok/14994?token=QhBYV0dYRg4TWlUDUgBVCgIAUVZSXApcDVEHVAIEVVpdBQEHDQRUBlIaSBAQEEJXVQhvWgIbCVQNDQkFTRQUEVxAb19QEl4WBwFdAFVGHBBADF1WRAMCUAEFBAhQAVVRFRBAX1ASXhYADVQGUEYcEFEdRFYUV1IJZlBVRwhVBEADXEVaWBxGW19nAFcOBV5WFl8SA0QVEQxKRBILD0MNDhUQUl9AQgVAVBpeEFFVBAQWSRJQCUxdEUtNEgtDfyVAFRBVTkBVCkdYVwoQWUZEQRZJEloVZkEASkBCVABbBBAbCBIGFhxGWVBAO1EMCl5XVxFZXAhKEV8bBhIdQ1sODFBGX0RrQA1QEwJGAFRcBAoWGA==
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/hbo.png", HBO
 https://delivery.macan.live/stream/hbo/index.m3u8?token=BnCg4oKx&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/hbo.png", HBO RD
+http://103.233.241.161:8888/Rdhok/U.Rdhok/210?token=QhBYV0dYRg4TCQcDAFJRC1dUU1BfD1dVWwJVBlUGWFoNVFNQUgcCAVMaSBAQEEJXVQhvWgIbCVcIBBwTFEUEEGZbVBQOElINCApSEE9GRFtZABIJVwwLVA0NAQZUA01ASVtUFA4SVwUHAVYQT0ZVSkAAQl0HVWwBXEJZUgQUWwxMXlwaFl8Ka1VdCVMNABIIFlUSH0RQQBUbDl5EDVpNQFtbRERVRAEWCxpWAlRXEh4WBl9GCE1BHBsOEnglFE1AXEpEU1pDDVtfGl4QFxcSHhYMQ2wUXEARS1FRXAREQ1gbAhIaFl0FTG5bC1wNAVNGXQpeQEQDEVcbGBJcDlgIFlZAb0ZdVEYOEw5cBFZGTQ==
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/kbs_world.png", KBS World
 https://delivery.macan.live/stream/kbs_world/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/macanlogo.png", MACAN Special Sport 1
