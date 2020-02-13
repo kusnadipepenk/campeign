@@ -7,14 +7,8 @@ https://liveanevia.mncnow.id/live/eds/MNCChannel/sa_hls/MNCChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",KOMPAS TV
 https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/L0x4cC6/net.jpg" group-title="EMENSIPNY",NET. TV(3)
-https://liveanevia.mncnow.id/live/eds/NetTV/sa_hls/NetTV.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/GkVqLF6/sctv.jpg" group-title="EMENSIPNY",SCTV
-https://liveanevia.mncnow.id/live/eds/SCTV/sa_hls/SCTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
-#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",ANTV
-https://liveanevia.mncnow.id/live/eds/ANTV/sa_hls/ANTV.m3u8
 #EXTINF:-1 group-title="EMENSIPNY",Disney Jr
 https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="EMENSIPNY",DISNEY-CHANELS id
@@ -33,24 +27,12 @@ https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="EMENSIPNY",NICK Junior
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
-#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",BBC EARTH
-https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/2s0vXgr/natgeo.png" group-title="EMENSIPNY",Nat-Geo ID
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="EMENSIPNY",Nat-Geo-WILD ID
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
-#EXTINF:-1 group-title="EMENSIPNY",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="EMENSIPNY",HISTORY ID
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
-#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DISCOVERY ID
-https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Animal PlanetS
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
-#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
-https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_499968=13-mp4a_98800_eng=3.m3u8
-#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
-https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
+==EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
+==https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV-avc1_499968=13-mp4a_98800_eng=3.m3u8
+==EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
+==https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",LIFETIME
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN Drama
@@ -81,9 +63,9 @@ https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_499968=12-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EMENSIPNY",CinemAx
 https://liveanevia.mncnow.id/live/eds/CinemaxHD/sa_hls/CinemaxHD-avc1_499968=5-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="EMENSIPNY",HBO-ID
+==EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cz/HBO.cz.png" group-title="EMENSIPNY",HBO-ID
 https://liveanevia.mncnow.id/live/eds/HBO/sa_hls/HBO.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="EMENSIPNY",HBO Family ID
+==EXTINF:-1 tvg-logo="https://static.iptv-epg.com/br/HBOFamily.br.png" group-title="EMENSIPNY",HBO Family ID
 https://liveanevia.mncnow.id/live/eds/HBOFamily/sa_hls/HBOFamily.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/HBOHits.id.png" group-title="EMENSIPNY",HBO Hits ID
 https://liveanevia.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_499968=12-mp4a_98800_eng=3.m3u8
