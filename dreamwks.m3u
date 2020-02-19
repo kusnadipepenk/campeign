@@ -17,6 +17,8 @@ https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Animal PlanetS
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",NATIONAL GEOGRAPHIC
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
 ==EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
 ==EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN Drama
@@ -33,10 +35,12 @@ https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-mp4a_98800_eng=3.m3u8
 ==EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="EMENSIPNY",WarnerTV ID
 ==EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="EMENSIPNY",Cinema World
-==EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="EMENSIPNY",Fox Family Movies
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="EMENSIPNY",Fox Family Movies
+https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="EMENSIPNY",Fox Movies Premium
 https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
-==EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="EMENSIPNY",Fox ACTION
+#EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="EMENSIPNY",Fox ACTION
+https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="EMENSIPNY",Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EMENSIPNY",CinemAx
