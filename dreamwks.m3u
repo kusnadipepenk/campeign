@@ -9,8 +9,14 @@ https://liveanevia.mncnow.id/live/eds/MNCTV/sa_hls/MNCTV.m3u8
 https://anevia115.mncnow.id:443/live/eds/KompasTV/sa_hls/KompasTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",RCTI
 https://liveanevia.mncnow.id/live/eds/RCTI/sa_hls/RCTI.m3u8
-==EXTINF:-1 group-title="EMENSIPNY",Disney Jr
-==EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="EMENSIPNY",DISNEY-CHANELS id
+#EXTINF:-1 group-title="EMENSIPNY",Disney Jr
+https://liveanevia.mncnow.id/live/eds/DisneyJunior/sa_hls/DisneyJunior.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/2vNJgVq/disne.png" group-title="EMENSIPNY",DISNEY-CHANELS id
+https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DisneyXD
+https://liveanevia.mncnow.id/live/eds/DisneyXD/sa_hls/DisneyXD.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",BOOMERANG id
+https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/dfbky5y/miaomi.jpg" group-title="EMENSIPNY",Miaomi ID
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
 #EXTINF:-1  group-title="EMENSIPNY",KIDS CHANNEL ID.
@@ -19,8 +25,10 @@ https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",NATIONAL GEOGRAPHIC
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
-==EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
-==EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
+#EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
+https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN Drama
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN sbtl
@@ -83,7 +91,8 @@ https://liveanevia.mncnow.id/live/eds/VisionPrime/sa_hls/VisionPrime.m3u8
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/uk/TLC.uk.png" group-title="EMENSIPNY",TLC
 https://liveanevia.mncnow.id/live/eds/TLC/sa_hls/TLC.m3u8
-==EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Channel[V]
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Channel[V]
+https://anevia115.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",MUSIC CHA
 https://liveanevia.mncnow.id/live/eds/MusicChannel/sa_hls/MusicChannel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",FMN
