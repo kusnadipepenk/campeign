@@ -21,10 +21,26 @@ https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang.m3u8
 https://liveanevia.mncnow.id/live/eds/MiaoMi/sa_hls/MiaoMi.m3u8
 #EXTINF:-1  group-title="EMENSIPNY",KIDS CHANNEL ID.
 https://liveanevia.mncnow.id/live/eds/KidsChannel/sa_hls/KidsChannel.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CARTON NETW ID
+https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="EMENSIPNY",Nickelodeon ID
+https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/QQFhFrg/nicktoon.png" group-title="EMENSIPNY",NICK Junior
+https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Animal PlanetS
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",NATIONAL GEOGRAPHIC
 https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/yR0ZTTB/natgeowild.png" group-title="EMENSIPNY",Nat-Geo-WILD ID
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild.m3u8
+#EXTINF:-1 group-title="EMENSIPNY",Nat Geo People
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople.m3u8
+#EXTINF:-1  tvg-logo="https://i.ibb.co/7j39sz1/histo.jpg" group-title="EMENSIPNY",HISTORY ID
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",DISCOVERY ID
+https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery.m3u8
+#EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",BBC EARTH
+https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/Tbk2Dsc/hgtv.jpg" group-title="EMENSIPNY",HGTV
 https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",CrimeInvestigation
