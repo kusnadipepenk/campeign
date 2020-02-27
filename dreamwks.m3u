@@ -120,9 +120,9 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN Drama
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="MhachanPny",TVN Drama
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=BnCg4oKx&v=20200202
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="SUB PREMIUM",TVN MOVIES
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="MhachanPny",TVN MOVIES
 https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=BnCg4oKx&v=20200202
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png",FOX Movies Premium
 https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=BnCg4oKx&v=20200202
