@@ -120,62 +120,42 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TLC2x
-https://kremes.macan.live/stream/tlc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TLC2
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/57.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",History2
-https://kremes.macan.live/stream/history/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/233.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",HGTV
-https://kremes.macan.live/stream/hgtv/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/55.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBO2
-https://kremes.macan.live/stream/hbo/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/117.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX2
-https://kremes.macan.live/stream/fox/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/2.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVN2
-https://kremes.macan.live/stream/tvn/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/58.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVNMovies
-https://kremes.macan.live/stream/tvn_movies/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/416.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FX Channel
-https://kremes.macan.live/stream/fx/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/48.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXMOVIEs
-https://kremes.macan.live/stream/foxmoviespremium/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/61.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXACTION
-https://kremes.macan.live/stream/foxactionmovies/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/33.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX FAMILY
-https://kremes.macan.live/stream/foxfamilymovies/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/31.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOFAM
-https://kremes.macan.live/stream/hbo_family/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/125.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOHITS
-https://kremes.macan.live/stream/hbo_hits/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/124.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",WarnerTV
-https://kremes.macan.live/stream/warnertv/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NICK Jr
-https://kremes.macan.live/stream/nickjr/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DisneyJR
-https://kremes.macan.live/stream/disneyjunior/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bomerang
-https://kremes.macan.live/stream/boomerang/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",CArtoonNet
-https://kremes.macan.live/stream/cartoonnetwork/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Asian Food Channel
-https://kremes.macan.live/stream/afc/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEO
-https://kremes.macan.live/stream/ngc/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DISCOVERYCHANNEL
-https://kremes.macan.live/stream/discoverychannel/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEO WILD
-https://kremes.macan.live/stream/natgeowild/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEOPEOPLE
-https://kremes.macan.live/stream/natgeopeople/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DISCOVERY ASIA
-https://kremes.macan.live/stream/discoveryasia/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/608.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",LOVE NATURE
-https://kremes.macan.live/stream/love_nature/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",BBC EARTH
-https://kremes.macan.live/stream/bbc_earth/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",BBC LIFESTYLE
-https://kremes.macan.live/stream/bbc_lifestyle/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",AnimalPlanet
-https://kremes.macan.live/stream/animalplanet/chunks.m3u8
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/744.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",E-TV Movies
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/592.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bein Sport 1 ID
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/185.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bein Sport 2 ID
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",============================
 https://
 
