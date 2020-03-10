@@ -134,6 +134,8 @@ https://kremes.macan.live/stream/fox/chunks.m3u8
 https://kremes.macan.live/stream/tvn/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVNMovies
 https://kremes.macan.live/stream/tvn_movies/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FX Channel
+https://kremes.macan.live/stream/fx/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXMOVIEs
 https://kremes.macan.live/stream/foxmoviespremium/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXACTION
@@ -144,6 +146,8 @@ https://kremes.macan.live/stream/foxfamilymovies/chunks.m3u8
 https://kremes.macan.live/stream/hbo_family/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOHITS
 https://kremes.macan.live/stream/hbo_hits/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",WarnerTV
+https://kremes.macan.live/stream/warnertv/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",NICK Jr
 https://kremes.macan.live/stream/nickjr/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",DisneyJR
@@ -154,8 +158,24 @@ https://kremes.macan.live/stream/boomerang/chunks.m3u8
 https://kremes.macan.live/stream/cartoonnetwork/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",Asian Food Channel
 https://kremes.macan.live/stream/afc/chunks.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",WarnerTV
-https://kremes.macan.live/stream/warnertv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEO
+https://kremes.macan.live/stream/ngc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DISCOVERYCHANNEL
+https://kremes.macan.live/stream/discoverychannel/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEO WILD
+https://kremes.macan.live/stream/natgeowild/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NATGEOPEOPLE
+https://kremes.macan.live/stream/natgeopeople/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DISCOVERY ASIA
+https://kremes.macan.live/stream/discoveryasia/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",LOVE NATURE
+https://kremes.macan.live/stream/love_nature/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",BBC EARTH
+https://kremes.macan.live/stream/bbc_earth/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",BBC LIFESTYLE
+https://kremes.macan.live/stream/bbc_lifestyle/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",AnimalPlanet
+https://kremes.macan.live/stream/animalplanet/chunks.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",============================
 https://
 
