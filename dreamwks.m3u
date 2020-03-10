@@ -120,6 +120,45 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TLC2x
+https://kremes.macan.live/stream/tlc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",History2
+https://kremes.macan.live/stream/history/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HGTV
+https://kremes.macan.live/stream/hgtv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBO2
+https://kremes.macan.live/stream/hbo/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX2
+https://kremes.macan.live/stream/fox/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVN2
+https://kremes.macan.live/stream/tvn/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVNMovies
+https://kremes.macan.live/stream/tvn_movies/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXMOVIEs
+https://kremes.macan.live/stream/foxmoviespremium/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXACTION
+https://kremes.macan.live/stream/foxactionmovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX FAMILY
+https://kremes.macan.live/stream/foxfamilymovies/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOFAM
+https://kremes.macan.live/stream/hbo_family/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOHITS
+https://kremes.macan.live/stream/hbo_hits/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",NICK Jr
+https://kremes.macan.live/stream/nickjr/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",DisneyJR
+https://kremes.macan.live/stream/disneyjunior/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bomerang
+https://kremes.macan.live/stream/boomerang/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",CArtoonNet
+https://kremes.macan.live/stream/cartoonnetwork/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Asian Food Channel
+https://kremes.macan.live/stream/afc/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",WarnerTV
+https://kremes.macan.live/stream/warnertv/chunks.m3u8
+#EXTINF:-1 tvg-logo="" group-title="MhachanPny",============================
+https://
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="MhachanPny",TVN Drama
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=k7b3i8T7&v=20200202
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="MhachanPny",TVN MOVIES
