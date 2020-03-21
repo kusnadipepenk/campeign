@@ -119,23 +119,23 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",Arirang
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",Arirang
 https://edgejt6.useetv.com/joss/14/arirang/chunklist_w1379652201_b684100_sleng.m3u8?enc=h4xBTGhOI8VNzx35hpLwJw&exp=1584807367
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",Bein1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",Bein1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w524430809_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",bein2
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",bein2
 https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w238172090_b684100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",Champion1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",Champion1
 https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w88428122_b894100_sleng.m3u8?enc=r8bXbihIA9_aAoD0Jhv7aw&exp=1584807851
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="TES",Champion2
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="www",Champion2
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1688393011_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",TVN Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",TVN Movies
 https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1519480718_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",TVN
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",TVN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",KBSWorld
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",KBSWorld
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w545253272_b894100_sleng.m3u8?enc=dyd-pEAGGawrFxAjKqWVpA&exp=1584808239
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="TES",Flik
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="www",Flik
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1202539728_b894100_sleng.m3u8?enc=DjreLVlAs_rauvykBYwpjQ&exp=1584808332
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",============================
 https://
