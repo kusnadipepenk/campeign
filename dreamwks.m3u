@@ -47,11 +47,10 @@ https://liveanevia.mncnow.id/live/eds/HGTV/sa_hls/HGTV.m3u8
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN Drama
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN sbtl
-https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_1000000=6-mp4a_66000_eng=2.m3u8
-==EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN MOV stbl
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN MPD
+https://newweb.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S7BKmCr/tvnmov.png" group-title="EMENSIPNY",TVN MOVIES2
-https://anevia115.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies.m3u8
+https://newweb.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FOX.us.png" group-title="EMENSIPNY",FOX
 https://anevia115.mncnow.id:443/live/eds/FoxChannel/sa_hls/FoxChannel.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/pt/FoxLife.pt.png" group-title="EMENSIPNY",FOX Life
@@ -59,14 +58,14 @@ https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FX.us.png" group-title="EMENSIPNY",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="EMENSIPNY",WarnerTV ID
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV.m3u8
+https://newweb.mncnow.id/live/eds/WarnerTV/sa_dash_vmx/WarnerTV.mpd
 ==EXTINF:-1 tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/11/CMW-gold-logo-for-website-loading.png" group-title="EMENSIPNY",Cinema World
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXFamilyMovies.id.png" group-title="EMENSIPNY",Fox Family Movies
-https://liveanevia.mncnow.id/live/eds/FoxFamilyMovies/sa_hls/FoxFamilyMovies.m3u8
+https://newweb.mncnow.id/live/eds/FoxFamilyMovies/sa_dash_vmx/FoxFamilyMovies.mpd
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/FOXMoviesPremium.id.png" group-title="EMENSIPNY",Fox Movies Premium
-https://anevia115.mncnow.id:443/live/eds/FOXMoviesPremium/sa_hls/FOXMoviesPremium.m3u8
+https://newweb.mncnow.id/live/eds/FOXMoviesPremium/sa_dash_vmx/FOXMoviesPremium.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/s3B1WkB/foxaction.png" group-title="EMENSIPNY",Fox ACTION
-https://liveanevia.mncnow.id/live/eds/FoxActionMovies/sa_hls/FoxActionMovies.m3u8
+https://newweb.mncnow.id/live/eds/FoxActionMovies/sa_dash_vmx/FoxActionMovies.mpd
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/qa/FoxCrime.qa.png" group-title="EMENSIPNY",Fox Crime
 https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime.m3u8
 #EXTINF:-1 tvg-logo="" group-title="EMENSIPNY",CinemAx
@@ -119,43 +118,6 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 #EXTINF:-1  tvg-logo="" group-title="EMENSIPNY",Life Channel
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
-
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TLC2
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/57.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",History2
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/233.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HGTV
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/55.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBO2
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/117.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX2
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/2.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVN2
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/58.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",TVNMovies
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/416.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FX Channel
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/48.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXMOVIEs
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/61.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOXACTION
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/33.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",FOX FAMILY
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/31.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOFAM
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/125.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",HBOHITS
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/124.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",WarnerTV
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/608.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",LOVE NATURE
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/744.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",E-TV Movies
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/592.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bein Sport 1 ID
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/185.m3u8
-#EXTINF:-1 tvg-logo="" group-title="MhachanPny",Bein Sport 2 ID
-http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/186.m3u8
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",============================
 https://
 
