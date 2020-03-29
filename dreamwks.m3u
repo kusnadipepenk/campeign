@@ -119,6 +119,12 @@ https://liveanevia.mncnow.id/live/eds/DramaChannel/sa_hls/DramaChannel.m3u8
 https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 
 
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png",FOX Movies Premium
+https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=Yq91Jdf0&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=Yq91Jdf0&v=20200202
+#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
+https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=Yq91Jdf0&v=20200202
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",USeeSport
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2125901002_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Bein1
@@ -153,10 +159,10 @@ https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1616461031_b894100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w233876666_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NatgeoWild
 https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1546557041_b894100_sleng.m3u8?enc=80JvYJrKPC_N6Ov0pfL-Cg&exp=1584809484
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Dreamworks
-https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1977478799_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",AFN
 https://vcdnjt.useetv.com/joss/15/afc/chunklist_w123923253_b684100_sleng.m3u8?enc=F21hHzC7QIaNyNreCkIFhQ&exp=1584954282
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Dreamworks
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1977478799_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Boomerang
 https://cdnkbl2.useetv.com/joss/14/boomerang/chunklist_w89413251_b684100_sleng.m3u8?enc=uy9_bgrxlTDGogtzRZZ1LQ&exp=1584954452
 
