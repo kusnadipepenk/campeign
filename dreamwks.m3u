@@ -149,8 +149,6 @@ https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b894100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w545253272_b894100_sleng.m3u8?enc=dyd-pEAGGawrFxAjKqWVpA&exp=1584808239
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Flik
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1202539728_b894100_sleng.m3u8?enc=DjreLVlAs_rauvykBYwpjQ&exp=1584808332
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",IMC
-https://cdnkbl1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng.m3u8?enc=4IBCSBle-DUIp2kNywwhgQ&exp=1585559131
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Galaxy
 https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1559463589_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",WarnerTV
@@ -165,12 +163,14 @@ https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1616461031_b894100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w233876666_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NatgeoWild
 https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1546557041_b894100_sleng.m3u8?enc=80JvYJrKPC_N6Ov0pfL-Cg&exp=1584809484
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Crime investgation
+https://cdnkbl1.useetv.com/joss/15/crimeinvestigation/chunklist_w833718963_b894100_sleng.m3u8?enc=EBqRIPd8rByQK0Lsf9fNtg&exp=1586510493
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",AFN
 https://vcdnjt.useetv.com/joss/15/afc/chunklist_w123923253_b684100_sleng.m3u8?enc=F21hHzC7QIaNyNreCkIFhQ&exp=1584954282
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Dreamworks
 https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1977478799_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Boomerang
-https://cdnmdc2.useetv.com/joss/14/boomerang/chunklist_w2085520911_b684100_sleng.m3u8?enc=Xv4H9cgY7sx6OdWKz6CPDQ&exp=1585530004
+https://cdnbdsa1.useetv.com/joss/14/boomerang/chunklist_w1578628531_b684100_sleng.m3u8?enc=G9zxiAlXykLOVrJJ8iC1SA&exp=1586510201
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NIckJR
 https://cdnbdsa1.useetv.com/joss/14/nickjr/chunklist_w1809412092_b684100_sleng.m3u8?enc=UeXRnD2KCczC7T-ZD0sPoA&exp=1585558990
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MTV
