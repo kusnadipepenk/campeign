@@ -127,6 +127,8 @@ https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=Yq91Jdf0&
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=Yq91Jdf0&v=20200202
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",USeeSport
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2125901002_b684100_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NBA
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1958354549_b684100_sleng.m3u8?enc=AU5oY9eopKXSAN3kQif8NQ&exp=1586583058
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Bein1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w524430809_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",bein2 360
@@ -149,6 +151,8 @@ https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w869027199_b684100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w545253272_b894100_sleng.m3u8?enc=dyd-pEAGGawrFxAjKqWVpA&exp=1584808239
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Flik
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1202539728_b894100_sleng.m3u8?enc=DjreLVlAs_rauvykBYwpjQ&exp=1584808332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w640598899_b684100_sleng.m3u8?enc=nfJX2YWn8aaRFFT2UL89ng&exp=1586583195
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Galaxy
 https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1559463589_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",WarnerTV
