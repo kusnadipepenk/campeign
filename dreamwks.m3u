@@ -5,6 +5,22 @@ https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=Yq91Jdf0
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=Yq91Jdf0&v=20200202
 #EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
 https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=Yq91Jdf0&v=20200202
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Nettv
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w1993024418_b894100_sleng.m3u8?enc=jTCt2V9g3R22LpDXiHgNjg&exp=1586765665
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w1027229960_b894100_sleng.m3u8?enc=BzQSpYLYKua41_WK76WLJA&exp=1586765722
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",TransTV
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w359671835_b894100_sleng.m3u8?enc=xuIOb-V14_fsI86hiCJ2xw&exp=1586765721
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",TVone
+https://edgejt6.useetv.com/joss/15/tvone/chunklist_w538679951_b894100_sleng.m3u8?enc=2U1Y2U3ervlbo82Y8Jt8YA&exp=1586765831
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Trans7
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w688472395_b894100_sleng.m3u8?enc=8BkGbVkMuj28sTQ7Vx8QOw&exp=1586765925
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",SonyOne
+https://vcdnjt.useetv.com/joss/15/sone/chunklist_w2105676819_b894100_sleng.m3u8?enc=1k8L20qNef6oNvAaF-OiVg&exp=1586766048
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MetroTV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w653864926_b894100_sleng.m3u8?enc=oDkGlyau_ptjeLsYTuwA6w&exp=1586765540
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",KompasTV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1415358576_b684100_sleng.m3u8?enc=U1yA_5cOzpJkqvnVq0rOBg&exp=1586765461
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",USeeSport
 https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2125901002_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NBA
