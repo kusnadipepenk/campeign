@@ -42,6 +42,8 @@ https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w267369980_b684100_sleng.m
 https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w100272625_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Flik
 https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1202539728_b894100_sleng.m3u8?enc=DjreLVlAs_rauvykBYwpjQ&exp=1584808332
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",GlobalTV
+https://etslive-2-vidio-com.akamaized.net/exp=1586776567~acl=/hls-p/ingest_778_*/*~hmac=0e18b7149c7932cdcbca3e379bb8bfe15245b905cc96e7d04f88ee110a0106a4/hls-p/ingest_778_480p/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Galaxy
 https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w1559463589_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",History
