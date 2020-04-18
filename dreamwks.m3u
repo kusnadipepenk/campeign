@@ -68,6 +68,8 @@ https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w545253272_b894100_sleng.m3
 https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1415358576_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Lifetime
 https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_w1220036374_b684100_sleng.m3u8?enc=vKRUwtqOgU9rOpWtXRwNhg&exp=1586759186
+#EXTINF:-1  tvg-logo="" group-title="MhachanPny",Life Channel (Christian)
+https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MetroTV
 https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MTV
@@ -122,7 +124,7 @@ https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2125901002_b684100_sleng.
 https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048772~exp=9007200826789763~acl=/c37364587aeb4050bd51a0b8068e976f/*/profile_1/chunklist.m3u8*~hmac=db830a2d176a5620aa93f8a722a43796aba20e38f757a257a6874826bc3f7308
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",USEE PRIME
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",V Channel
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",U-Channel
 https://vcdnjt.useetv.com/joss/14/uchannel/chunklist_w1345405650_b684100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",WarnerTV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1598513452_b894100_sleng.m3u8
