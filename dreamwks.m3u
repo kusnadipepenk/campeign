@@ -1,19 +1,12 @@
 #EXTM3U
-#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_movies_premium.png",FOX Movies Premium
-https://delivery.macan.live/stream/id_foxmoviespremium/index.m3u8?token=Yq91Jdf0&v=20200202
-#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_action_movies.png", FOX Action Movies
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=Yq91Jdf0&v=20200202
-#EXTINF:-1 group-title="MhachanPny" tvg-logo="https://macan.live/img/fox_family_movies.png", FOX Family Movies
-https://delivery.macan.live/stream/id_foxfamilymovies/index.m3u8?token=Yq91Jdf0&v=20200202
-
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",AWESOME
 https://livetvhooq.akamaized.net/e8b42cfc307e44eca6b8d862ce9837ac/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573600556~exp=9007200828341547~acl=/e8b42cfc307e44eca6b8d862ce9837ac/*/profile_0/chunklist.m3u8*~hmac=182089422756519616cf1de70220271a75538a091b1d6d386b86bde3f0f2533d
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",AFN cdn
-https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w123923253_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/afc/media_w338265157_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Boomerang
-https://cdnkbl2.useetv.com/joss/14/boomerang/chunklist_w1578628531_b684100_sleng.m3u8?enc=G9zxiAlXykLOVrJJ8iC1SA&exp=1586510201
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1252867620_b684100_sleng.m3u8?enc=JPhdnHOEAglg2P97memjCA&exp=1587520931
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",BioskopIndonesia
-https://cdnkbl2.useetv.com/joss/14/bioskopindonesia/chunklist_w587354861_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng.m3u8?enc=s09ZGOhXZ25jwIuaV43Z8Q&exp=1587520980
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Bein1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1042086319_b894100_sleng.m3u8?enc=TKAdMxIPKym1J-TivrdJeg&exp=1587519495
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",bein2
@@ -22,12 +15,10 @@ https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w218812659_b894100_sleng.m3u8?
 https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w1755272882_b894100_sleng.m3u8?enc=v26rQIG0SA_6zrQVeJNt0w&exp=1587519811
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="MhachanPny",Champion2
 https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w412189577_b894100_sleng.m3u8?enc=UlfJc1Jncq2xXfOKRuJ1Xw&exp=1587519900
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Crime investgation
-https://cdnkbl2.useetv.com/joss/15/crimeinvestigation/chunklist_w833718963_b894100_sleng.m3u8?enc=EBqRIPd8rByQK0Lsf9fNtg&exp=1586510493
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Discovery
-https://cdnkbl2.useetv.com/joss/15/disco/chunklist_w1616461031_b684100_sleng.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Discovery
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1452278029_b894100_sleng.m3u8?enc=dMHgy93E_C5VLD8UjohEBg&exp=1587521040
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Dreamworks
-https://cdnkbl2.useetv.com/joss/15/dreamworks/chunklist_w1977478799_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1944528033_b894100_sleng.m3u8?enc=2GBoWKC4sfzvgZR7_CP9gQ&exp=1587521111
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",FAIL ARMY
 https://livetvhooq.akamaized.net/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Foxsport1
@@ -51,17 +42,15 @@ https://liveanevia.mncnow.id/live/eds/Life/sa_hls/Life.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MetroTV
 https://livetvhooq.akamaized.net/448282ebe21e4ddaa20ffac3f5725086/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1574691189~exp=9007200829432180~acl=/448282ebe21e4ddaa20ffac3f5725086/*/profile_0/chunklist.m3u8*~hmac=59f27a77754b4c5320351dc4794eb66c2071caec48aef949c97b88a16e40dfe0&hdnts=st=1574691193~exp=1574691313~acl=/*~id=ea4e20a3-e056-4ca4-9902-dbae0dd98e93~data=36.82.100.15~hmac=2ef61d70928b0ade37fda927ff34cdb8f2d09b8558bd47f66e56301fc35419a9
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",MTV
-https://cdnkbl2.useetv.com/joss/15/mtvlive/chunklist_w1723415537_b684100_sleng.m3u8?enc=hYjBck3mzoUy8FAGYhtS3Q&exp=1585529933
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w472606553_b894100_sleng.m3u8?enc=A8EgjliCFQlyqXZYo7VXpw&exp=1587521182
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",MNC TV
 https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",MY TV
 https://livetvhooq.akamaized.net/b2fec42490a14386ac53eafa47f590a7/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573597923~exp=9007200828338914~acl=/b2fec42490a14386ac53eafa47f590a7/*/profile_0/chunklist.m3u8*~hmac=15a17e5b10bc2f36b6fbe927f137fff5a759fcc501c3d6712d5976a51a9b45ea
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Natgeo
-https://cdnkbl2.useetv.com/joss/15/natgeo/chunklist_w233876666_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w982713484_b894100_sleng.m3u8?enc=Ne3Q275D8369WglyWYap6g&exp=1587521298
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NatgeoWild
-https://cdnkbl2.useetv.com/joss/15/natgeowild/chunklist_w1546557041_b684100_sleng.m3u8?enc=80JvYJrKPC_N6Ov0pfL-Cg&exp=1584809484
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NBA
-https://cdnkbl2.useetv.com/joss/15/nba/chunklist_w1958354549_b684100_sleng.m3u8?enc=AU5oY9eopKXSAN3kQif8NQ&exp=1586583058
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w2145101699_b894100_sleng.m3u8?enc=2-gP08aOqyx8AXQjwOWFOg&exp=1587521256
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",NIckJR
 https://cdnkbl2.useetv.com/joss/14/nickjr/chunklist_w1809412092_b684100_sleng.m3u8?enc=UeXRnD2KCczC7T-ZD0sPoA&exp=1585558990
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Nickelodeon
@@ -91,8 +80,6 @@ https://livetvhooq.akamaized.net/c37364587aeb4050bd51a0b8068e976f/eu-central-1/5
 #EXTINF:-1 tvg-logo="" group-title="MhachanPny",USEE PRIME
 https://livetvhooq.akamaized.net/8eb1108c494240ef94c5c8ae7e572c29/eu-central-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1572048811~exp=9007200826789802~acl=/8eb1108c494240ef94c5c8ae7e572c29/*/profile_1/chunklist.m3u8*~hmac=c7b056ffebcb94ad6c429bd0685d5d6fed40b7bad0dcfca6e48df944d45a43d4
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",U-Channel
-https://cdnkbl2.useetv.com/joss/14/uchannel/chunklist_w1345405650_b684100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/14/uchannel/chunklist_w1889010773_b684100_sleng.m3u8?enc=PJIFexID-i3HAfgPO7xnlw&exp=1587521480
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",WarnerTV
-https://cdnkbl2.useetv.com/joss/15/warner/chunklist_w1598513452_b894100_sleng.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="MhachanPny",Waku2Japan
-https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1370020026_b684100_sleng.m3u8?enc=TicQxPnqOpFRzCKuiIJOOQ&exp=1585530056
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w754738909_b894100_sleng.m3u8?enc=W6A6_s6ZIt-zjacSJa6P6Q&exp=1587521368
