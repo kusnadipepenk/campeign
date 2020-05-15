@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1342792131_b894100_sleng.m3u8?enc=yyPTnmMn1r5-L_blPaoiIw&exp=1588747428
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Beinsport1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1342792131_b894100_sleng_enc=yyPTnmMn1r5-L_blPaoiIw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",bein2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1309369654_b894100_sleng.m3u8?enc=j_E65kzR9tLXKw1g8CZEIg&exp=1588747188
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champion2
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w103250257_b894100_sleng.m3u8
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w1309369654_b894100_sleng_enc=j_E65kzR9tLXKw1g8CZEIg.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w103250257_b894100_sleng.m3u8?enc=QuwJHNBaa3GjnV3mo9d_QQ&exp=1588753449
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w103250257_b894100_sleng_enc=QuwJHNBaa3GjnV3mo9d_QQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1716844622_b894100_sleng.m3u8?enc=rN4sJHX4mJDPDBXAHPRSrQ&exp=1588753511
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1716844622_b894100_sleng_enc=rN4sJHX4mJDPDBXAHPRSrQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport1
 https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w671669887_b894100_sleng_enc=Z43yYg1BLEH1wcIt0cyvhw.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport2
