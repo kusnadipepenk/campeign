@@ -29,16 +29,26 @@ https://vcdnjt.useetv.com/joss/15/flik/chunklist_w1256057961_b684100_sleng_enc=O
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1680739420_b684100_sleng_enc=1GDVQ9q5C1uTox5gcZV9NQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",MTV
 https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w472606553_b684100_sleng_enc=A8EgjliCFQlyqXZYo7VXpw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Natgeo
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w982713484_b684100_sleng_enc=Ne3Q275D8369WglyWYap6g.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",NatgeoWild
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w2145101699_b684100_sleng_enc=2-gP08aOqyx8AXQjwOWFOg.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",NIckJR
+https://cdnkbl2.useetv.com/joss/14/nickjr/chunklist_w1809412092_b684100_sleng_enc=UeXRnD2KCczC7T-ZD0sPoA.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Nickelodeon
+https://cdnkbl2.useetv.com/joss/14/nickelodeon/chunklist_w1945759718_b684100_sleng_enc=xhFvp4gbDqYjmgtQEJmwrA.m3u8
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",FAMILY
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbofam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HBO 
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HBO HIts
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HIts
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbihit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HBO Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Cinema
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HBO red
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Eed
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbored.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",HBO-SIg
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",SIgNature
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
