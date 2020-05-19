@@ -3,4 +3,4 @@
 #EXT-X-MEDIA:TYPE=AUDIO,URI="https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-mp4a_64000=2.m3u8?auth_key=1589893305-0-0-e4dd11f6eeeaa76618592c10d6dd167f",GROUP-ID="audio-AACL-66",DEFAULT=YES,AUTOSELECT=YES
 
 #EXT-X-STREAM-INF:BANDWIDTH=656287,AVERAGE-BANDWIDTH=596626
-https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_1000000=5.m3u8?auth_key=1589894363-0-0-0bc635b12b47f7aa2bd9f6810730984b
+https://linier3.rctiplus.id/live/eds/RCTI_Logo/sa_hls/RCTI_Logo-avc1_600000=3.m3u8?auth_key=1589894363-0-0-0bc635b12b47f7aa2bd9f6810730984b
