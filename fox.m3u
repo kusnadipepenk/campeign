@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Indonesia Movie channel
-https://cdnbal1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng_enc=JPBxYO83_ebZByMY9LTGFA.m3u8
+https://cdnbal1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng.m3u8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bioskop Indonesia
+https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",AFC
 https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b684100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Boomerang
@@ -24,7 +26,7 @@ https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1452278029_b894100_sleng.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w483660930_b894100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVNmov
-https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1871763687_b684100_sleng_enc=IW1hbur0W1K5PrweJ6K2gQ.m3u8
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1871763687_b894100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",WarnerTV
 https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1447566625_b684100_sleng_enc=paH6wsO3EiTE_sQPKoKDHA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Galaxy
