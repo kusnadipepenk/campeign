@@ -1,278 +1,279 @@
 #EXTM3U
+#EXTINF:-1 group-title="Comot",&TV HD ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62303
-#EXTINF:-1,ABC Australia ID
+#EXTINF:-1 group-title="Comot",ABC Australia ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62302
-#EXTINF:-1,ANTV ID
+#EXTINF:-1 group-title="Comot",ANTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62297
-#EXTINF:-1,AXN ID
+#EXTINF:-1 group-title="Comot",AXN ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62293
-#EXTINF:-1,Al Jazeera English ID
+#EXTINF:-1 group-title="Comot",Al Jazeera English ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62301
-#EXTINF:-1,Al Quran Al Karem ID
+#EXTINF:-1 group-title="Comot",Al Quran Al Karem ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62300
-#EXTINF:-1,Animal Planet ID
+#EXTINF:-1 group-title="Comot",Animal Planet ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62299
-#EXTINF:-1,Animax ID
+#EXTINF:-1 group-title="Comot",Animax ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62298
-#EXTINF:-1,Arirang Korea ID
+#EXTINF:-1 group-title="Comot",Arirang Korea ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62296
-#EXTINF:-1,Asian Food Channel ID
+#EXTINF:-1 group-title="Comot",Asian Food Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62295
-#EXTINF:-1,BBC Earth ID
+#EXTINF:-1 group-title="Comot",BBC Earth ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62289
-#EXTINF:-1,BBC World News ID
+#EXTINF:-1 group-title="Comot",BBC World News ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62288
-#EXTINF:-1,Baby TV ID
+#EXTINF:-1 group-title="Comot",Baby TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62292
-#EXTINF:-1,Bali TV ID
+#EXTINF:-1 group-title="Comot",Bali TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62291
-#EXTINF:-1,Berita Satu ID
+#EXTINF:-1 group-title="Comot",Berita Satu ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62284
-#EXTINF:-1,Besmart ID
+#EXTINF:-1 group-title="Comot",Besmart ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62283
-#EXTINF:-1,Bloomberg ID
+#EXTINF:-1 group-title="Comot",Bloomberg ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62282
-#EXTINF:-1,Boomerang 1 ID
+#EXTINF:-1 group-title="Comot",Boomerang 1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62281
-#EXTINF:-1,CCM ID
+#EXTINF:-1 group-title="Comot",CCM ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62278
-#EXTINF:-1,CCTV4 ID
+#EXTINF:-1 group-title="Comot",CCTV4 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62277
-#EXTINF:-1,CNBC ID
+#EXTINF:-1 group-title="Comot",CNBC ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62273
-#EXTINF:-1,CNN ID
+#EXTINF:-1 group-title="Comot",CNN ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62272
-#EXTINF:-1,Cartoon Network ID
+#EXTINF:-1 group-title="Comot",Cartoon Network ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62279
-#EXTINF:-1,Celestial Movies ID
+#EXTINF:-1 group-title="Comot",Celestial Movies ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62276
-#EXTINF:-1,Cinema World ID
+#EXTINF:-1 group-title="Comot",Cinema World ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62274
-#EXTINF:-1,MTA TV ID
+#EXTINF:-1 group-title="Comot",MTA TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62271
-#EXTINF:-1,Crime Investigation ID
+#EXTINF:-1 group-title="Comot",Crime Investigation ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62270
-#EXTINF:-1,DIVA ID
+#EXTINF:-1 group-title="Comot",DIVA ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62264
-#EXTINF:-1,DW ID
+#EXTINF:-1 group-title="Comot",DW ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62262
-#EXTINF:-1,Daai TV ID
+#EXTINF:-1 group-title="Comot",Daai TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62269
-#EXTINF:-1,Discovery Channel ID
+#EXTINF:-1 group-title="Comot",Discovery Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62268
-#EXTINF:-1,Disney Channel ID
+#EXTINF:-1 group-title="Comot",Disney Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62267
-#EXTINF:-1,Disney Junior ID
+#EXTINF:-1 group-title="Comot",Disney Junior ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62266
-#EXTINF:-1,Drama Channel ID
+#EXTINF:-1 group-title="Comot",Drama Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62263
-#EXTINF:-1,Padang TV ID
+#EXTINF:-1 group-title="Comot",Padang TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62261
-#EXTINF:-1,EWTN ID
+#EXTINF:-1 group-title="Comot",EWTN ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62259
-#EXTINF:-1,Euronews ID
+#EXTINF:-1 group-title="Comot",Euronews ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62260
-#EXTINF:-1,FMN ID
+#EXTINF:-1 group-title="Comot",FMN ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62257
-#EXTINF:-1,FX ID
+#EXTINF:-1 group-title="Comot",FX ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62244
-#EXTINF:-1,Fight Sports ID
+#EXTINF:-1 group-title="Comot",Fight Sports ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62258
-#EXTINF:-1,Reformed 21 ID
+#EXTINF:-1 group-title="Comot",Reformed 21 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62256
-#EXTINF:-1,Fox Crime ID
+#EXTINF:-1 group-title="Comot",Fox Crime ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62254
-#EXTINF:-1,Fox Family Movies ID
+#EXTINF:-1 group-title="Comot",Fox Family Movies ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62253
-#EXTINF:-1,Fox ID
+#EXTINF:-1 group-title="Comot",Fox ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62255
-#EXTINF:-1,Fox Life ID
+#EXTINF:-1 group-title="Comot",Fox Life ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62252
-#EXTINF:-1,Fox Movies Action ID
+#EXTINF:-1 group-title="Comot",Fox Movies Action ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62250
-#EXTINF:-1,Fox Movies ID
+#EXTINF:-1 group-title="Comot",Fox Movies ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62251
-#EXTINF:-1,Fox News ID
+#EXTINF:-1 group-title="Comot",Fox News ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62249
-#EXTINF:-1,Fox Sports 1 ID
+#EXTINF:-1 group-title="Comot",Fox Sports 1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62248
-#EXTINF:-1,Fox Sports 2 ID
+#EXTINF:-1 group-title="Comot",Fox Sports 2 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62247
-#EXTINF:-1,Fox Sports 3 ID
+#EXTINF:-1 group-title="Comot",Fox Sports 3 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62246
-#EXTINF:-1,France24 ID
+#EXTINF:-1 group-title="Comot",France24 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62245
-#EXTINF:-1,GTV ID
+#EXTINF:-1 group-title="Comot",GTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62243
-#EXTINF:-1,HGTV ID
+#EXTINF:-1 group-title="Comot",HGTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62242
-#EXTINF:-1,Hidayah ID
+#EXTINF:-1 group-title="Comot",Hidayah ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62241
-#EXTINF:-1,History ID
+#EXTINF:-1 group-title="Comot",History ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62240
-#EXTINF:-1,Hits ID
+#EXTINF:-1 group-title="Comot",Hits ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62239
-#EXTINF:-1,Hits Movies ID
+#EXTINF:-1 group-title="Comot",Hits Movies ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62238
-#EXTINF:-1,IDX ID
+#EXTINF:-1 group-title="Comot",IDX ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62237
-#EXTINF:-1,Indosiar ID
+#EXTINF:-1 group-title="Comot",Indosiar ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62236
-#EXTINF:-1,Infotainment ID
+#EXTINF:-1 group-title="Comot",Infotainment ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62234
-#EXTINF:-1,JTV ID
+#EXTINF:-1 group-title="Comot",JTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62232
-#EXTINF:-1,Jak TV ID
+#EXTINF:-1 group-title="Comot",Jak TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62233
-#EXTINF:-1,KIX ID
+#EXTINF:-1 group-title="Comot",KIX ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62230
-#EXTINF:-1,Kids Channel ID
+#EXTINF:-1 group-title="Comot",Kids Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62231
-#EXTINF:-1,Kompas TV 1 ID
+#EXTINF:-1 group-title="Comot",Kompas TV 1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62229
-#EXTINF:-1,Life ID
+#EXTINF:-1 group-title="Comot",Life ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62227
-#EXTINF:-1,Life Style Fashion ID
+#EXTINF:-1 group-title="Comot",Life Style Fashion ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62226
-#EXTINF:-1,MNC Channel ID
+#EXTINF:-1 group-title="Comot",MNC Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62222
-#EXTINF:-1,MNC Entertainment ID
+#EXTINF:-1 group-title="Comot",MNC Entertainment ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62221
-#EXTINF:-1,MNC News ID
+#EXTINF:-1 group-title="Comot",MNC News ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62220
-#EXTINF:-1,MNC Shop Smart ID
+#EXTINF:-1 group-title="Comot",MNC Shop Smart ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62219
-#EXTINF:-1,MNC Shop Trendy ID
+#EXTINF:-1 group-title="Comot",MNC Shop Trendy ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62218
-#EXTINF:-1,MNC Sports ID
+#EXTINF:-1 group-title="Comot",MNC Sports ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62216
-#EXTINF:-1,MNCTV ID
+#EXTINF:-1 group-title="Comot",MNCTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62214
-#EXTINF:-1,MYTV ID
+#EXTINF:-1 group-title="Comot",MYTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62211
-#EXTINF:-1,Metro TV ID
+#EXTINF:-1 group-title="Comot",Metro TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62224
-#EXTINF:-1,MiaoMI ID
+#EXTINF:-1 group-title="Comot",MiaoMI ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62223
-#EXTINF:-1,Music Channel ID
+#EXTINF:-1 group-title="Comot",Music Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62212
-#EXTINF:-1,NET.1 ID
+#EXTINF:-1 group-title="Comot",NET.1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62207
-#EXTINF:-1,NHK World Japan ID
+#EXTINF:-1 group-title="Comot",NHK World Japan ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62204
-#EXTINF:-1,Nat Geo ID
+#EXTINF:-1 group-title="Comot",Nat Geo ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62210
-#EXTINF:-1,News Asia Channel ID
+#EXTINF:-1 group-title="Comot",News Asia Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62205
-#EXTINF:-1,Nick ID
+#EXTINF:-1 group-title="Comot",Nick ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62202
-#EXTINF:-1,Nick JR ID
+#EXTINF:-1 group-title="Comot",Nick JR ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62201
-#EXTINF:-1,The Indonesia Channel ID
+#EXTINF:-1 group-title="Comot",The Indonesia Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62200
-#EXTINF:-1,RCTI ID
+#EXTINF:-1 group-title="Comot",RCTI ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62199
-#EXTINF:-1,RT English ID
+#EXTINF:-1 group-title="Comot",RT English ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62198
-#EXTINF:-1,RTV5 Makin Cakep 1 ID
+#EXTINF:-1 group-title="Comot",RTV5 Makin Cakep 1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62197
-#EXTINF:-1,tvOne ID
+#EXTINF:-1 group-title="Comot",tvOne ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62195
-#EXTINF:-1,SCM Legend ID
+#EXTINF:-1 group-title="Comot",SCM Legend ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62194
-#EXTINF:-1,SCTV ID
+#EXTINF:-1 group-title="Comot",SCTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62193
-#EXTINF:-1,Sky News ID
+#EXTINF:-1 group-title="Comot",Sky News ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62192
-#EXTINF:-1,RBTV ID
+#EXTINF:-1 group-title="Comot",RBTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62191
-#EXTINF:-1,Sony One ID
+#EXTINF:-1 group-title="Comot",Sony One ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62190
-#EXTINF:-1,TLC ID
+#EXTINF:-1 group-title="Comot",TLC ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62188
-#EXTINF:-1,TRT World ID
+#EXTINF:-1 group-title="Comot",TRT World ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62183
-#EXTINF:-1,TV One ID
+#EXTINF:-1 group-title="Comot",TV One ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62181
-#EXTINF:-1,TV9 ID
+#EXTINF:-1 group-title="Comot",TV9 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62180
-#EXTINF:-1,TVN Movies ID
+#EXTINF:-1 group-title="Comot",TVN Movies ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62178
-#EXTINF:-1,MIVO TV ID
+#EXTINF:-1 group-title="Comot",MIVO TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62176
-#EXTINF:-1,Lifetime ID
+#EXTINF:-1 group-title="Comot",Lifetime ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62175
-#EXTINF:-1,HBO SIGNATURE ID
+#EXTINF:-1 group-title="Comot",HBO SIGNATURE ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62174
-#EXTINF:-1,HBO HITS ID
+#EXTINF:-1 group-title="Comot",HBO HITS ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62173
-#EXTINF:-1,HBO FAMILY ID
+#EXTINF:-1 group-title="Comot",HBO FAMILY ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62172
-#EXTINF:-1,HBO RED ID
+#EXTINF:-1 group-title="Comot",HBO RED ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62171
-#EXTINF:-1,HBO CINEMAX ID
+#EXTINF:-1 group-title="Comot",HBO CINEMAX ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62170
-#EXTINF:-1,TVRI ID
+#EXTINF:-1 group-title="Comot",TVRI ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62177
-#EXTINF:-1,Usee Prime ID
+#EXTINF:-1 group-title="Comot",Usee Prime ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62165
-#EXTINF:-1,CNN Indonesia ID
+#EXTINF:-1 group-title="Comot",CNN Indonesia ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62163
-#EXTINF:-1,Fashion TV ID
+#EXTINF:-1 group-title="Comot",Fashion TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62162
-#EXTINF:-1,Fashion One HD ID
+#EXTINF:-1 group-title="Comot",Fashion One HD ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62161
-#EXTINF:-1,RCTV ID
+#EXTINF:-1 group-title="Comot",RCTV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62159
-#EXTINF:-1,ANIPlus ID
+#EXTINF:-1 group-title="Comot",ANIPlus ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62158
-#EXTINF:-1,Asian Food Channel HD ID
+#EXTINF:-1 group-title="Comot",Asian Food Channel HD ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62156
-#EXTINF:-1,Da Vinci Learning ID
+#EXTINF:-1 group-title="Comot",Da Vinci Learning ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62152
-#EXTINF:-1,Duck TV ID
+#EXTINF:-1 group-title="Comot",Duck TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62151
-#EXTINF:-1,Dreamworks ID
+#EXTINF:-1 group-title="Comot",Dreamworks ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62150
-#EXTINF:-1,Thrill ID
+#EXTINF:-1 group-title="Comot",Thrill ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62189
-#EXTINF:-1,Trans TV ID
+#EXTINF:-1 group-title="Comot",Trans TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62186
-#EXTINF:-1,Trans7 ID
+#EXTINF:-1 group-title="Comot",Trans7 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62187
-#EXTINF:-1,Wesal TV ID
+#EXTINF:-1 group-title="Comot",Wesal TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62185
-#EXTINF:-1,V Channel ID
+#EXTINF:-1 group-title="Comot",V Channel ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62144
-#EXTINF:-1,Waku Waku Japan ID
+#EXTINF:-1 group-title="Comot",Waku Waku Japan ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62143
-#EXTINF:-1,Warner TV ID
+#EXTINF:-1 group-title="Comot",Warner TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62142
-#EXTINF:-1,Zee Bioskop ID
+#EXTINF:-1 group-title="Comot",Zee Bioskop ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62141
-#EXTINF:-1,Zee Cinema ID
+#EXTINF:-1 group-title="Comot",Zee Cinema ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62140
-#EXTINF:-1,Zee News ID
+#EXTINF:-1 group-title="Comot",Zee News ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62139
-#EXTINF:-1,Zee TV ID
+#EXTINF:-1 group-title="Comot",Zee TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62138
-#EXTINF:-1,Zing ID
+#EXTINF:-1 group-title="Comot",Zing ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62137
-#EXTINF:-1,beIN Sports 1 ID
+#EXTINF:-1 group-title="Comot",beIN Sports 1 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62286
-#EXTINF:-1,beIN Sports 2 ID
+#EXTINF:-1 group-title="Comot",beIN Sports 2 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62287
-#EXTINF:-1,Insan TV ID
+#EXTINF:-1 group-title="Comot",Insan TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62285
-#EXTINF:-1,MTA 3 ID
+#EXTINF:-1 group-title="Comot",MTA 3 ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/6188
-#EXTINF:-1,iNews ID
+#EXTINF:-1 group-title="Comot",iNews ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/62235
-#EXTINF:-1,RRI NET ID
+#EXTINF:-1 group-title="Comot",RRI NET ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/78282
-#EXTINF:-1,TV5Monde ID
+#EXTINF:-1 group-title="Comot",TV5Monde ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/78288
-#EXTINF:-1,TV Edukasi ID
+#EXTINF:-1 group-title="Comot",TV Edukasi ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/78289
-#EXTINF:-1,TEGAR TV ID
+#EXTINF:-1 group-title="Comot",TEGAR TV ID
 http://restream.geniptv.com:8080/DanielJury/ZQPr92JRzH/78290
