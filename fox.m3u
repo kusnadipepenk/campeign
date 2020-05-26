@@ -1,12 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Chinese Drama
+https://cdnkbl2.useetv.com/joss/14/chinesedrama/chunklist_w1824833964_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Indonesia Movie channel
 https://cdnbal1.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bioskop Indonesia
-https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng.m3u8.m3u8
+https://cdnkbl2.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",AFC
-https://cdnkbl1.useetv.com/joss/15/afc/chunklist_w493374220_b684100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
+https://cdnkbl2.useetv.com/joss/15/afc/chunklist_w493374220_b684100_sleng_enc=eOnEw5d4SoCziqmPto6COQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Boomerang
-https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w1252867620_b684100_sleng.m3u8.m3u8
+https://cdnkbl2.useetv.com/joss/14/boomerang/chunklist_w1252867620_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1401439927_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",bein2
