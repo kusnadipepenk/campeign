@@ -23,6 +23,8 @@ https://vcdnjt.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng.m3u8.m
 https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng_enc=s09ZGOhXZ25jwIuaV43Z8Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Boomerang
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w827886927_b684100_sleng.m3u8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",NBA tv
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
 https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1401439927_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",bein2
@@ -65,6 +67,12 @@ https://cdnkbl2.useetv.com/joss/14/nickelodeon/chunklist_w1945759718_b684100_sle
 https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w1944528033_b894100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",CartoonNetwork
 https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1561758737_b684100_sleng.m3u8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",AniPlus
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",AniMax
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",KBSWorld
 https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1680739420_b684100_sleng_enc=1GDVQ9q5C1uTox5gcZV9NQ.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
