@@ -37,6 +37,8 @@ https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1452278029_b684100_sleng.m3u8
 https://vcdnjt.useetv.com/joss/15/history/chunklist_w20770770_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",MTV
 https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w472606553_b684100_sleng_enc=A8EgjliCFQlyqXZYo7VXpw.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",T-MUSIC
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w605950752_b684100_sleng.m3u8.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Natgeo
 https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w982713484_b684100_sleng_enc=Ne3Q275D8369WglyWYap6g.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",NatgeoWild
