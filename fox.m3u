@@ -25,6 +25,10 @@ https://vcdnjt.useetv.com/joss/14/imc/chunklist_w1786804501_b684100_sleng.m3u8.m
 https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w798928800_b684100_sleng_enc=s09ZGOhXZ25jwIuaV43Z8Q.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Boomerang
 https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w827886927_b684100_sleng.m3u8.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSPort2
+https://vcdnjt.useetv.com/joss/15/useesport2/chunklist_b684100_sleng_.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSport1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",NBA tv
 https://vcdnjt.useetv.com/joss/15/nba/chunklist_b684100_sleng_.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
