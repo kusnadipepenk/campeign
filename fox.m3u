@@ -1,4 +1,32 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSPort2
+https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1227459638_b894100_sleng.m3u8?enc=rAPf7QBluqjtWI4iYQoVyg&exp=1593140752
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSport1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2024866305_b894100_sleng.m3u8?enc=-FdGstpWwQphUus5sdeBpw&exp=1593140635
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w2030269765_b894100_sleng.m3u8?enc=10S04a7Uy-LsPQqcQQFThw&exp=1593140560
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",bein2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w10217877_b684100_sleng.m3u8?enc=UhO6YdO7QB_IVQBVwurdoA&exp=1593140062
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w324959426_b894100_sleng.m3u8?enc=cNu7LTS8tLNnGZG15c5-lw&exp=1593140789
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ 2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w381495617_b894100_sleng.m3u8?enc=B5qv7-9_NZa6V2_d6JNRJg&exp=1593140881
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w974963019_b894100_sleng.m3u8?enc=rbx0lxkiCPWkH67fr9w1nw&exp=1593141050
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport2
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1046871088_b894100_sleng.m3u8?enc=TAfcaUDfOy5n8ugMpw8BkQ&exp=1593141107
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w796457802_b894100_sleng.m3u8?enc=fboXHUjF5z7X3KfjEGdwOw&exp=1593141155
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",KBSWorld
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1563464859_b894100_sleng.m3u8?enc=9qw1_pE6LyBWeSY2mXqIDQ&exp=1593141280
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc=wzQSMCSxH4LdY4uduuwnZQ&exp=1593141320
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DW Channel
+http://103.47.132.165/PLTV/88888888/224/3221227181/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DisneyChanel
+http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxACtionMovies
 http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxMovie
@@ -11,22 +39,45 @@ http://103.47.132.165/PLTV/88888888/224/3221227115/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227113/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport
 http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NatgeoPeople
-http://103.47.132.165/PLTV/88888888/224/3221227127/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport2
+http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport3
+http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",V Chanel
 http://103.47.132.165/PLTV/88888888/224/3221227133/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FOX
 http://103.47.132.165/PLTV/88888888/224/3221227137/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FC CHANNEL
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FX CHANNEL
 http://103.47.132.165/PLTV/88888888/224/3221227139/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qw
-http://103.47.132.165/PLTV/88888888/224/3221227141/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qd
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FOXCRIME
+http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",AXN
+http://103.47.132.165/PLTV/88888888/224/3221227159/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SONIONE
 http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qnw
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ANIMAX
 http://103.47.132.165/PLTV/88888888/224/3221227145/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qwf
 http://103.47.132.165/PLTV/88888888/224/3221227147/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DiscoveryASIA
+http://103.47.132.165/PLTV/88888888/224/3221227161/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DiscoveryChannel
+http://103.47.132.165/PLTV/88888888/224/3221227169/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",AnimalPlanet
+http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NatgeoPeople
+http://103.47.132.165/PLTV/88888888/224/3221227127/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NatgeoWILD
+http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NATGEO
+http://103.47.132.165/PLTV/88888888/224/3221227177/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ASIAnFOODCh
+http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",EE
+http://103.47.132.165/PLTV/88888888/224/3221227201/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SINI
+http://103.47.132.165/PLTV/88888888/224/3221227233/2.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
@@ -64,28 +115,5 @@ https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJT
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SIgNature
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",=================================
-https://gggg.com
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSPort2
-https://cdnjt25.useetv.com/joss/15/useesports2/chunklist_w1227459638_b894100_sleng.m3u8?enc=rAPf7QBluqjtWI4iYQoVyg&exp=1593140752
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",UseeSport1
-https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w2024866305_b894100_sleng.m3u8?enc=-FdGstpWwQphUus5sdeBpw&exp=1593140635
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",Bein1
-https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w2030269765_b894100_sleng.m3u8?enc=10S04a7Uy-LsPQqcQQFThw&exp=1593140560
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USEE",bein2
-https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w10217877_b684100_sleng.m3u8?enc=UhO6YdO7QB_IVQBVwurdoA&exp=1593140062
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ1
-https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w324959426_b894100_sleng.m3u8?enc=cNu7LTS8tLNnGZG15c5-lw&exp=1593140789
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Champ 2
-https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w381495617_b894100_sleng.m3u8?enc=B5qv7-9_NZa6V2_d6JNRJg&exp=1593140881
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport1
-https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w974963019_b894100_sleng.m3u8?enc=rbx0lxkiCPWkH67fr9w1nw&exp=1593141050
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport2
-https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w1046871088_b894100_sleng.m3u8?enc=TAfcaUDfOy5n8ugMpw8BkQ&exp=1593141107
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",Foxsport3
-https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w796457802_b894100_sleng.m3u8?enc=fboXHUjF5z7X3KfjEGdwOw&exp=1593141155
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",KBSWorld
-https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1563464859_b894100_sleng.m3u8?enc=9qw1_pE6LyBWeSY2mXqIDQ&exp=1593141280
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
-https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc=wzQSMCSxH4LdY4uduuwnZQ&exp=1593141320
+
