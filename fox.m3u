@@ -24,17 +24,17 @@ https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DW Channel
-http://103.47.132.165/PLTV/88888888/224/3221227181/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227181/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",GOLF
-http://103.47.132.165/PLTV/88888888/224/3221227325/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227325/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CeebAbies
-http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227353/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DisneyChanel
-http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227183/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ZOOMMOO
 http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxACtionMovies
-http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227121/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxMovie
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxFamily
@@ -44,9 +44,9 @@ http://103.47.132.165/PLTV/88888888/224/3221227115/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",TLC
 http://103.47.132.165/PLTV/88888888/224/3221227113/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport
-http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227125/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport2
-http://103.47.132.165/PLTV/88888888/224/3221227173/2.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxSport3
 http://103.47.132.165/PLTV/88888888/224/3221227219/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",V Chanel
