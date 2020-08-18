@@ -5,6 +5,31 @@ http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxFamily
 http://103.47.132.165/PLTV/88888888/224/3221227117/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",f
+http://103.47.132.165/PLTV/88888888/224/3221227115/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",r
+http://103.47.132.165/PLTV/88888888/224/3221227113/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",fs
+http://103.47.132.165/PLTV/88888888/224/3221227111/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",s
+http://103.47.132.165/PLTV/88888888/224/3221227123/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ge
+http://103.47.132.165/PLTV/88888888/224/3221227125/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",dw
+http://103.47.132.165/PLTV/88888888/224/3221227127/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",re
+http://103.47.132.165/PLTV/88888888/224/3221227129/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ds
+http://103.47.132.165/PLTV/88888888/224/3221227131/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ff
+http://103.47.132.165/PLTV/88888888/224/3221227133/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qw
+http://103.47.132.165/PLTV/88888888/224/3221227135/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",cx
+http://103.47.132.165/PLTV/88888888/224/3221227137/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",bn
+http://103.47.132.165/PLTV/88888888/224/3221227139/2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOsingapur
