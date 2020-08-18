@@ -51,6 +51,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227137/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227139/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FOXCRIME
 http://103.47.132.165/PLTV/88888888/224/3221227165/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxLIfe
+http://103.47.132.165/PLTV/88888888/224/3221227277/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",AXN
 http://103.47.132.165/PLTV/88888888/224/3221227159/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SONIONE
@@ -77,7 +79,10 @@ http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227201/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SINI
 http://103.47.132.165/PLTV/88888888/224/3221227233/2.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CCC
+http://103.47.132.165/PLTV/88888888/224/3221227263/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",RT
+http://103.47.132.165/PLTV/88888888/224/3221227275/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
