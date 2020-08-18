@@ -1,10 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxACtionMovie
-http://103.47.132.165/PLTV/88888888/224/3221227121/3.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxACtionMovies
+http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxMovie
-http://103.47.132.165/PLTV/88888888/224/3221227119/3.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227119/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxFamily
-http://103.47.132.165/PLTV/88888888/224/3221227117/3.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227117/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOsingapur
