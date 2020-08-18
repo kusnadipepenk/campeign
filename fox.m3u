@@ -22,7 +22,10 @@ https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1563464859_b894100_sleng.m
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc=wzQSMCSxH4LdY4uduuwnZQ&exp=1593141320
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Aljazeera
+http://103.47.132.165/PLTV/88888888/224/3221227267/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ArirangKorea
+http://103.47.132.165/PLTV/88888888/224/3221227259/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DW Channel
 http://103.47.132.165/PLTV/88888888/224/3221227181/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",GOLF
@@ -99,6 +102,11 @@ http://103.47.132.165/PLTV/88888888/224/3221227321/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227331/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Lifetime
 http://103.47.132.165/PLTV/88888888/224/3221227337/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",BlueAntEXT
+http://103.47.132.165/PLTV/88888888/224/3221227319/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",BlueAntENT
+http://103.47.132.165/PLTV/88888888/224/3221227333/1.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
