@@ -25,8 +25,14 @@ https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DW Channel
 http://103.47.132.165/PLTV/88888888/224/3221227181/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",GOLF
+http://103.47.132.165/PLTV/88888888/224/3221227325/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CeebAbies
+http://103.47.132.165/PLTV/88888888/224/3221227353/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DisneyChanel
 http://103.47.132.165/PLTV/88888888/224/3221227183/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ZOOMMOO
+http://103.47.132.165/PLTV/88888888/224/3221227323/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxACtionMovies
 http://103.47.132.165/PLTV/88888888/224/3221227121/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FoxMovie
@@ -61,6 +67,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227143/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227145/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",qwf
 http://103.47.132.165/PLTV/88888888/224/3221227147/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CrimeInvestigation
+http://103.47.132.165/PLTV/88888888/224/3221227341/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DiscoveryASIA
 http://103.47.132.165/PLTV/88888888/224/3221227161/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",DiscoveryChannel
@@ -73,6 +81,10 @@ http://103.47.132.165/PLTV/88888888/224/3221227127/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NATGEO
 http://103.47.132.165/PLTV/88888888/224/3221227177/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HISTORY
+http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",LOveNature
+http://103.47.132.165/PLTV/88888888/224/3221227339/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ASIAnFOODCh
 http://103.47.132.165/PLTV/88888888/224/3221227191/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",EE
@@ -83,6 +95,12 @@ http://103.47.132.165/PLTV/88888888/224/3221227233/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227263/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",RT
 http://103.47.132.165/PLTV/88888888/224/3221227275/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SmithSonian
+http://103.47.132.165/PLTV/88888888/224/3221227321/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HITSMOVIES
+http://103.47.132.165/PLTV/88888888/224/3221227331/2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Lifetime
+http://103.47.132.165/PLTV/88888888/224/3221227337/2.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
