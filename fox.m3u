@@ -91,7 +91,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227339/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ASIAnFOODCh
 http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HGTV
-http://103.47.132.164/PLTV/88888888/224/3221227035/1.m3u8
+http://103.47.132.164/PLTV/88888888/224/3221227035/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SINI
 http://103.47.132.165/PLTV/88888888/224/3221227233/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CelestialClassic
