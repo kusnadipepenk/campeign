@@ -117,7 +117,7 @@ http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOs
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOFAM
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbofa.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOsign
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOhits
