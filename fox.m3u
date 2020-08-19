@@ -116,7 +116,7 @@ https://gggg.com
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOs
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOFAM
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOkel
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbokel.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOsign
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
