@@ -116,8 +116,8 @@ https://gggg.com
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOs
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOFams
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbofam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOFAM
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbofa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOsign
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBOhits
@@ -126,8 +126,9 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbihit.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbored.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Cinemas
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
-https://gggg.com
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",================================
+https://google.com
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBO Test
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FAMILYs
