@@ -81,7 +81,7 @@ http://103.47.132.165/PLTV/88888888/224/3221227173/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NatgeoPeople
 http://103.47.132.165/PLTV/88888888/224/3221227127/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NatgeoWILD
-http://103.47.132.165/PLTV/88888888/224/3221227157/1.m3u8
+http://103.47.132.165/PLTV/88888888/224/3221227157/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",NATGEO
 http://103.47.132.165/PLTV/88888888/224/3221227177/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HISTORY
@@ -90,6 +90,8 @@ http://103.47.132.165/PLTV/88888888/224/3221227335/2.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227339/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",ASIAnFOODCh
 http://103.47.132.165/PLTV/88888888/224/3221227191/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HGTV
+http://103.47.132.164/PLTV/88888888/224/3221227035/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SINI
 http://103.47.132.165/PLTV/88888888/224/3221227233/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",CelestialClassic
@@ -126,6 +128,8 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbored.m3u8
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",================================
 https://gggg.com
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBO Test
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FAMILYs
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
