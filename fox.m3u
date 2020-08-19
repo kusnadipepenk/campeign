@@ -130,7 +130,9 @@ https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",================================
 https://google.com
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBO Test
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+https://liveorigin02.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FAMtest
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FAMILYs
 https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
 
