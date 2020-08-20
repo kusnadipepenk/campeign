@@ -22,6 +22,47 @@ https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1563464859_b894100_sleng.m
 #EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USEE",TVN
 https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w53327566_b894100_sleng.m3u8?enc=wzQSMCSxH4LdY4uduuwnZQ&exp=1593141320
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBOsingapur
+http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBOs
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBOkel
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbokel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBOsign
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBOhits
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbihit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",reds
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbored.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",Cinemas
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",================================
+https://google.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",HBO Test
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",FAMtest
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",FAMILYs
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USHBs",HBO
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USHBs",HIts
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USHBs",Cinema
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USHBs",Red
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USHBs",SIgNature
+https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Aljazeera
 http://103.47.132.165/PLTV/88888888/224/3221227267/2.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",ArirangKorea
@@ -108,48 +149,5 @@ http://103.47.132.165/PLTV/88888888/224/3221227337/1.m3u8
 http://103.47.132.165/PLTV/88888888/224/3221227319/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",BlueAntENT
 http://103.47.132.165/PLTV/88888888/224/3221227333/1.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",================================
 https://gggg.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOsingapur
-http://fdtvapps.xyz/channel/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOs
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOkel
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbokel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOsign
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbosi.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBOhits
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbihit.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",reds
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbored.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Cinemas
-https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbocinema.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",================================
-https://google.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",HBO Test
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FAMtest
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FAMILYs
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/FAMILY/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HBO
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HBO/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",HIts
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/HITS/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Cinema
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/MAX/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",Red
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/RED/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",SIgNature
-https://dai3fd1oh325y.cloudfront.net/origin/live/main/SIG/index.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kYWkzZmQxb2gzMjV5LmNsb3VkZnJvbnQubmV0L29yaWdpbi9saXZlL21haW4vKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTU5NjUzODk5OH19fV19&Signature=omwx5ez~i1hTd9qhIUSNmFX81HZK5FZci8v~mS7SAq81iGqot8HSDDIzCcKBhGgYft1cYp~WkbfN2U2j3-BpIZRKcnQzgMrwuf4y9bKh4ng7DQUu3bqnUBzyxMsWoalAG~F8GfLbhewiAs43A6HST4FvWdCRUEPd8b-92y~M8DqBYerpxjkNINH3JrRVw1xKaX0w~azmpTLlEos3ILWaDmxJzlfb67A5vfezPFg6ZANv9CR0QTs-IbQ4GTyXZnxhmY3rO5uwuogxPZX4CAwLOmb8csjcy6vjP5TsT9FyeqbCf4DiI5NIPsMayHn8zAUF1qmPFp6wjbGKnHcVoPb~tA__&Key-Pair-Id=APKAJFBTWETXLROKW43A
-
-
-
