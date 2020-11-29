@@ -1,0 +1,64 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsingapur
+http://fdtvapps.xyz/channel/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOs
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFami
+https://kusnadipepenk.github.io/campeign/hbofam.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsign
+https://kusnadipepenk.github.io/campeign/hbosi.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOhits
+https://kusnadipepenk.github.io/campeign/hbihit.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",reds
+https://kusnadipepenk.github.io/campeign/hbored.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHBs",Cinemas
+https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",================================
+https://google.com
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO Test
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILYs
+http://185.238.0.145:1313/c/g/FAMILY-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO
+http://185.238.0.145:1313/c/g/HBO-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HIts
+http://185.238.0.145:1313/c/g/HITS-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinema
+http://185.238.0.145:1313/c/g/CINEMAX-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Red
+http://185.238.0.145:1313/c/g/RED-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIgNature
+http://185.238.0.145:1313/c/g/SIGNATURE-SD.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Bommerang
+http://185.238.0.145:1313/c/ku/boomerang.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Cartonetwork
+http://185.238.0.145:1313/c/ku/cn.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyChanel
+http://185.238.0.145:1313/c/ku/disneychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyJunior
+http://185.238.0.145:1313/c/ku/disneyjunior.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxACtion
+http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxMovies
+http://185.238.0.145:1313/c/ku/foxmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxFamily
+http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",V Chanel
+http://185.238.0.145:1313/c/pre/v-lq.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FOX
+http://185.238.0.145:1313/c/ku/fox.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FOXCRIME
+http://185.238.0.145:1313/c/ku/foxcrime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxLIfe
+http://185.238.0.145:1313/c/ku/foxlife.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Kplus
+http://185.238.0.145:1313/c/a/k+-sd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Lifetime
+http://185.238.0.145:1313/c/ku/lifetime.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TLC
+http://185.238.0.145:1313/c/ku/tlc.m3u8
+
