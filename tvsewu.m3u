@@ -39,6 +39,10 @@ http://185.238.0.145:1313/c/ku/boomerang.m3u8
 http://185.238.0.145:1313/c/ku/cn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyChanel
 http://185.238.0.145:1313/c/ku/disneychannel.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyXD
+http://185.238.0.145:1313/c/ku/disneyxd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DMAX
+http://185.238.0.145:1313/c/ku/dmax.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyJunior
 http://185.238.0.145:1313/c/ku/disneyjunior.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxACtion
