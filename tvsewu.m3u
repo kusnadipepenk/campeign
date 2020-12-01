@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsingapur
 http://fdtvapps.xyz/channel/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOs
-https://kusnadipepenk.github.io/campeign/hbo.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOf
+https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFami
 https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsign
