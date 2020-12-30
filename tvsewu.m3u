@@ -19,10 +19,10 @@ https://google.com
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILYs
-http://185.238.0.145:1313/c/g/FAMILY-SD.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO
-http://185.238.0.145:1313/c/g/HBO-SD.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILY1
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=11&c=2&d=FAMILY
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO1
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HIts
 http://185.238.0.145:1313/c/g/HITS-SD.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinema
