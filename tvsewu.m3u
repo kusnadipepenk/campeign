@@ -3,7 +3,7 @@
 http://fdtvapps.xyz/channel/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOf
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFami
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFams
 https://kusnadipepenk.github.io/campeign/hbofam.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsign
 https://kusnadipepenk.github.io/campeign/hbosi.m3u8
