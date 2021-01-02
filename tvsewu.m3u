@@ -19,18 +19,18 @@ https://google.com
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILY1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILY
 http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=11&c=2&d=FAMILY
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO1
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO
 http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HIts
-http://185.238.0.145:1313/c/g/HITS-SD.m3u8
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinema
-http://185.238.0.145:1313/c/g/CINEMAX-SD.m3u8
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=MAX
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Red
-http://185.238.0.145:1313/c/g/RED-SD.m3u8
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=RED
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIgNature
-http://185.238.0.145:1313/c/g/SIGNATURE-SD.m3u8
+http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=SIG
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Bommerang
