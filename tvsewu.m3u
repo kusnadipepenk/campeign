@@ -33,20 +33,20 @@ http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=RED
 http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=SIG
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Bommerang
-http://185.238.0.145:1313/c/ku/boomerang.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Cartonetwork
-http://185.238.0.145:1313/c/ku/cn.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyChanel
-http://185.238.0.145:1313/c/ku/disneychannel.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyXD
-http://185.238.0.145:1313/c/ku/disneyxd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DMAX
-http://185.238.0.145:1313/c/ku/dmax.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DisneyJunior
-http://185.238.0.145:1313/c/ku/disneyjunior.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxACtion
-http://185.238.0.145:1313/c/ku/foxactionmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Horee HipHIp
+http://185.238.0.145:1313/c/ku/see/i.php?a=hiphip-horee&b=geo_7052&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Horeee
+http://185.238.0.145:1313/c/ku/see/i.php?a=horee&b=geo_6397&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",ZOOMMOO
+http://185.238.0.145:1313/c/ku/see/i.php?a=zoomoo&b=geo_6533&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",CitraBioskop
+http://185.238.0.145:1313/c/ku/see/i.php?a=citrabioskop&b=geo_6684&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",SMITHSONIAN CH
+http://185.238.0.145:1313/c/ku/see/i.php?a=smithsonian&b=geo_6550&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",LOVE NATURE
+http://185.238.0.145:1313/c/ku/see/i.php?a=love-nature&b=geo_6635&c=480p
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Champion3
+http://185.238.0.145:1313/c/ku/see/i.php?a=championtv3&b=geo_6786&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxMovies
 http://185.238.0.145:1313/c/ku/foxmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxFamily
