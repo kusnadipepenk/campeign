@@ -47,22 +47,33 @@ http://185.238.0.145:1313/c/ku/see/i.php?a=smithsonian&b=geo_6550&c=480p
 http://185.238.0.145:1313/c/ku/see/i.php?a=love-nature&b=geo_6635&c=480p
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Champion3
 http://185.238.0.145:1313/c/ku/see/i.php?a=championtv3&b=geo_6786&c=480p
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxMovies
-http://185.238.0.145:1313/c/ku/foxmovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxFamily
-http://185.238.0.145:1313/c/ku/foxfamilymovies.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",V Chanel
-http://185.238.0.145:1313/c/pre/v-lq.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",FOX
-http://185.238.0.145:1313/c/ku/fox.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FOXCRIME
-http://185.238.0.145:1313/c/ku/foxcrime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FoxLIfe
-http://185.238.0.145:1313/c/ku/foxlife.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Drakor
+http://wz.insantv.net/monitor/ch105.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",SinemaIndonesiaX
+http://wz.insantv.net/monitor/ch106.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",DrakorPlus
+http://wz.insantv.net/monitor/ch107.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="h" group-title="USCEE",RRINet
+http://wz.insantv.net/monitor/ch110.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TVP
+http://wz.insantv.net/monitor/ch111.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",KTV
+http://wz.insantv.net/monitor/ch112.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Kplus
 http://185.238.0.145:1313/c/a/k+-sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Lifetime
-http://185.238.0.145:1313/c/ku/lifetime.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TLC
-http://185.238.0.145:1313/c/ku/tlc.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",KompasTV
+http://wz.insantv.net/monitor/ch113.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",CintabollY
+http://wz.insantv.net/monitor/ch114.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",TVIn
+http://wz.insantv.net/monitor/ch115.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",NTV
+http://wz.insantv.net/monitor/ch116.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",FTV
+http://wz.insantv.net/monitor/ch120.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",LapakMusik
+http://wz.insantv.net/monitor/ch122.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",MyTV
+http://wz.insantv.net/monitor/ch123.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",M Channel
+http://wz.insantv.net/monitor/ch137.m3u8
