@@ -15,8 +15,8 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",================================
 https://google.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO Test
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO Test2
+http://me.zichannels.my.id/ch/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILY
