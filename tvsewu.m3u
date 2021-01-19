@@ -89,5 +89,387 @@ http://wz.insantv.net/monitor/ch123.m3u8
 http://wz.insantv.net/monitor/ch137.m3u8
 
 #EXTM3U
-#EXTINF:0 tvg-id="ext" group-title="USEETV FULL",USEESPORT 1s
+#EXTINF:-1 group-title="TTTT",5 USA
+http://194.76.186.38:7002/play/a006
+#EXTINF:-1 group-title="TTTT" group-title="TTTT",5SELECT
+http://194.76.186.38:7002/play/a009
+#EXTINF:-1 group-title="TTTT",5STAR
+http://194.76.186.38:7002/play/a008
+#EXTINF:-1 group-title="TTTT" group-title="TTTT",5STAR+1
+http://194.76.186.38:7002/play/a00a
+#EXTINF:-1 group-title="TTTT",5USA+1
+http://194.76.186.38:7002/play/a007
+#EXTINF:-1 group-title="TTTT",92 News
+http://194.76.186.38:7002/play/a056
+#EXTINF:-1 group-title="TTTT",A1TV
+http://194.76.186.38:7002/play/a04s
+#EXTINF:-1 group-title="TTTT",AAJ TAK
+http://194.76.186.38:7002/play/a06r
+#EXTINF:-1 group-title="TTTT",ARY Digital
+http://194.76.186.38:7002/play/a01m
+#EXTINF:-1 group-title="TTTT",ATN
+http://194.76.186.38:7002/play/a04u
+#EXTINF:-1 group-title="TTTT",Ahlebait TV
+http://194.76.186.38:7002/play/a04w
+#EXTINF:-1 group-title="TTTT",Ahlulbayt TV
+http://194.76.186.38:7002/play/a011
+#EXTINF:-1 group-title="TTTT",Akaal Channel
+http://194.76.186.38:7002/play/a02f
+#EXTINF:-1 group-title="TTTT",Al Jazeera Eng
+http://194.76.186.38:7002/play/a019
+#EXTINF:-1 group-title="TTTT",Animal Planet
+http://194.76.186.38:7002/play/a07r
+#EXTINF:-1 group-title="TTTT",Arise News
+http://194.76.186.38:7002/play/a01b
+#EXTINF:-1 group-title="TTTT",B4U Movies
+http://194.76.186.38:7002/play/a04r
+#EXTINF:-1 group-title="TTTT",B4U Music
+http://194.76.186.38:7002/play/a04m
+#EXTINF:-1 group-title="TTTT",BET:BlackEntTv
+http://194.76.186.38:7002/play/a01y
+#EXTINF:-1 group-title="TTTT",BLAZE
+http://194.76.186.38:7002/play/a016
+#EXTINF:-1 group-title="TTTT",Best Direct
+http://194.76.186.38:7002/play/a06j
+#EXTINF:-1 group-title="TTTT",Birmingham TV
+http://194.76.186.38:7002/play/a053
+#EXTINF:-1 group-title="TTTT",Boomerang
+http://194.76.186.38:7002/play/a02k
+#EXTINF:-1 group-title="TTTT",BoxNation
+http://194.76.186.38:7002/play/a00w
+#EXTINF:-1 group-title="TTTT",Bristol TV
+http://194.76.186.38:7002/play/a05a
+#EXTINF:-1 group-title="TTTT",Brit Asia TV
+http://194.76.186.38:7002/play/a01l
+#EXTINF:-1 group-title="TTTT",CBS Drama
+http://194.76.186.38:7002/play/a03h
+#EXTINF:-1 group-title="TTTT",CBS Justice
+http://194.76.186.38:7002/play/a03i
+#EXTINF:-1 group-title="TTTT",CBS Reality
+http://194.76.186.38:7002/play/a03p
+#EXTINF:-1 group-title="TTTT",CGTN
+http://194.76.186.38:7002/play/a04l
+#EXTINF:-1 group-title="TTTT",CHSTV
+http://194.76.186.38:7002/play/a04v
+#EXTINF:-1 group-title="TTTT",CNBC
+http://194.76.186.38:7002/play/a04e
+#EXTINF:-1 group-title="TTTT",CNN
+http://194.76.186.38:7002/play/a00z
+#EXTINF:-1 group-title="TTTT",Capital
+http://194.76.186.38:7002/play/a05l
+#EXTINF:-1 group-title="TTTT",Capital XTRA
+http://194.76.186.38:7002/play/a05j
+#EXTINF:-1 group-title="TTTT",Cardiff TV
+http://194.76.186.38:7002/play/a05b
+#EXTINF:-1 group-title="TTTT",Cartoon Netwrk
+http://194.76.186.38:7002/play/a02i
+#EXTINF:-1 group-title="TTTT",Cartoonito
+http://194.76.186.38:7002/play/a02l
+#EXTINF:-1 group-title="TTTT",Celebration TV
+http://194.76.186.38:7002/play/a06b
+#EXTINF:-1 group-title="TTTT",Challenge
+http://194.76.186.38:7002/play/a07a
+#EXTINF:-1 group-title="TTTT",Channel 44
+http://194.76.186.38:7002/play/a059
+#EXTINF:-1 group-title="TTTT",Channel 5
+http://194.76.186.38:7002/play/a005
+#EXTINF:-1 group-title="TTTT",Channel 5 HD
+http://194.76.186.38:7002/play/a00d
+#EXTINF:-1 group-title="TTTT",Channel 7
+http://194.76.186.38:7002/play/a01f
+#EXTINF:-1 group-title="TTTT",Channels 24
+http://194.76.186.38:7002/play/a06a
+#EXTINF:-1 group-title="TTTT",Citv
+http://194.76.186.38:7002/play/a083
+#EXTINF:-1 group-title="TTTT",Classic FM
+http://194.76.186.38:7002/play/a05o
+#EXTINF:-1 group-title="TTTT",Clubland TV
+http://194.76.186.38:7002/play/a05w
+#EXTINF:-1 group-title="TTTT",ComedyCentral
+http://194.76.186.38:7002/play/a028
+#EXTINF:-1 group-title="TTTT",ComedyXtra
+http://194.76.186.38:7002/play/a023
+#EXTINF:-1 group-title="TTTT",Court TV
+http://194.76.186.38:7002/play/a06o
+#EXTINF:-1 group-title="TTTT",DMAX
+http://194.76.186.38:7002/play/a07p
+#EXTINF:-1 group-title="TTTT",Dave
+http://194.76.186.38:7002/play/a07l
+#EXTINF:-1 group-title="TTTT",Dave
+http://194.76.186.38:7002/play/a07g
+#EXTINF:-1 group-title="TTTT",Dave ja vu
+http://194.76.186.38:7002/play/a07m
+#EXTINF:-1 group-title="TTTT",Desi Radio
+http://194.76.186.38:7002/play/a05f
+#EXTINF:-1 group-title="TTTT",Disc.History
+http://194.76.186.38:7002/play/a07t
+#EXTINF:-1 group-title="TTTT",Disc.Science
+http://194.76.186.38:7002/play/a07s
+#EXTINF:-1 group-title="TTTT",Disc.Turbo
+http://194.76.186.38:7002/play/a07u
+#EXTINF:-1 group-title="TTTT",Discovery
+http://194.76.186.38:7002/play/a07q
+#EXTINF:-1 group-title="TTTT",Discovery Shed
+http://194.76.186.38:7002/play/a00p
+#EXTINF:-1 group-title="TTTT",Drama
+http://194.76.186.38:7002/play/a07k
+#EXTINF:-1 group-title="TTTT",Drama
+http://194.76.186.38:7002/play/a07j
+#EXTINF:-1 group-title="TTTT",Dunamis TV
+http://194.76.186.38:7002/play/a06g
+#EXTINF:-1 group-title="TTTT",Dunya News
+http://194.76.186.38:7002/play/a01o
+#EXTINF:-1 group-title="TTTT",EWTN Catholic
+http://194.76.186.38:7002/play/a02w
+#EXTINF:-1 group-title="TTTT",EWTN Catholic
+http://194.76.186.38:7002/play/a02v
+#EXTINF:-1 group-title="TTTT",Eden
+http://194.76.186.38:7002/play/a07d
+#EXTINF:-1 group-title="TTTT",Faith UK
+http://194.76.186.38:7002/play/a01j
+#EXTINF:-1 group-title="TTTT",Food Network
+http://194.76.186.38:7002/play/a07o
+#EXTINF:-1 group-title="TTTT",Forces TV
+http://194.76.186.38:7002/play/a07b
+#EXTINF:-1 group-title="TTTT",GEO News
+http://194.76.186.38:7002/play/a01c
+#EXTINF:-1 group-title="TTTT",GEO TV
+http://194.76.186.38:7002/play/a06v
+#EXTINF:-1 group-title="TTTT",GOD Channel
+http://194.76.186.38:7002/play/a06k
+#EXTINF:-1 group-title="TTTT",GOLD
+http://194.76.186.38:7002/play/a07e
+#EXTINF:-1 group-title="TTTT",Gems TV
+http://194.76.186.38:7002/play/a01d
+#EXTINF:-1 group-title="TTTT",Gold
+http://194.76.186.38:7002/play/a05m
+#EXTINF:-1 group-title="TTTT",Good News TV
+http://194.76.186.38:7002/play/a05s
+#EXTINF:-1 group-title="TTTT",HGTV
+http://194.76.186.38:7002/play/a039
+#EXTINF:-1 group-title="TTTT",Heart 90s
+http://194.76.186.38:7002/play/a069
+#EXTINF:-1 group-title="TTTT",Heart Dance
+http://194.76.186.38:7002/play/a063
+#EXTINF:-1 group-title="TTTT",Hi-Impact TV
+http://194.76.186.38:7002/play/a058
+#EXTINF:-1 group-title="TTTT",Hidayat TV
+http://194.76.186.38:7002/play/a04h
+#EXTINF:-1 group-title="TTTT",High Street TV 1
+http://194.76.186.38:7002/play/a06t
+#EXTINF:-1 group-title="TTTT",High Street TV 2
+http://194.76.186.38:7002/play/a05r
+#EXTINF:-1 group-title="TTTT",High Street TV 3
+http://194.76.186.38:7002/play/a01k
+#EXTINF:-1 group-title="TTTT",High Street TV 4
+http://194.76.186.38:7002/play/a05t
+#EXTINF:-1 group-title="TTTT",High Street TV 5
+http://194.76.186.38:7002/play/a06h
+#EXTINF:-1 group-title="TTTT",Hillsong
+http://194.76.186.38:7002/play/a015
+#EXTINF:-1 group-title="TTTT",Hits Radio
+http://194.76.186.38:7002/play/a064
+#EXTINF:-1 group-title="TTTT",Hochanda
+http://194.76.186.38:7002/play/a05i
+#EXTINF:-1 group-title="TTTT",Home & Health
+http://194.76.186.38:7002/play/a00l
+#EXTINF:-1 group-title="TTTT",ID
+http://194.76.186.38:7002/play/a00h
+#EXTINF:-1 group-title="TTTT",IQRA BANGLA
+http://194.76.186.38:7002/play/a01s
+#EXTINF:-1 group-title="TTTT",IQRA TV
+http://194.76.186.38:7002/play/a01t
+#EXTINF:-1 group-title="TTTT",Inspiration TV
+http://194.76.186.38:7002/play/a018
+#EXTINF:-1 group-title="TTTT",Islam Ch Urdu
+http://194.76.186.38:7002/play/a02p
+#EXTINF:-1 group-title="TTTT",Islam Channel
+http://194.76.186.38:7002/play/a01e
+#EXTINF:-1 group-title="TTTT",Islam TV
+http://194.76.186.38:7002/play/a01r
+#EXTINF:-1 group-title="TTTT",JML Direct
+http://194.76.186.38:7002/play/a06q
+#EXTINF:-1 group-title="TTTT",Jazz FM
+http://194.76.186.38:7002/play/a067
+#EXTINF:-1 group-title="TTTT",JewelleryMaker
+http://194.76.186.38:7002/play/a00y
+#EXTINF:-1 group-title="TTTT",KICC TV
+http://194.76.186.38:7002/play/a050
+#EXTINF:-1 group-title="TTTT",KTV
+http://194.76.186.38:7002/play/a04f
+#EXTINF:-1 group-title="TTTT",Khushkhabri
+http://194.76.186.38:7002/play/a05n
+#EXTINF:-1 group-title="TTTT",LBC News
+http://194.76.186.38:7002/play/a061
+#EXTINF:-1 group-title="TTTT",Leeds TV
+http://194.76.186.38:7002/play/a05c
+#EXTINF:-1 group-title="TTTT",Live 360
+http://194.76.186.38:7002/play/a06d
+#EXTINF:-1 group-title="TTTT",Liverpool TV
+http://194.76.186.38:7002/play/a054
+#EXTINF:-1 group-title="TTTT",London Live
+http://194.76.186.38:7002/play/a04o
+#EXTINF:-1 group-title="TTTT",MATV National
+http://194.76.186.38:7002/play/a01p
+#EXTINF:-1 group-title="TTTT",MTV HITS
+http://194.76.186.38:7002/play/a029
+#EXTINF:-1 group-title="TTTT",MTV MUSIC
+http://194.76.186.38:7002/play/a02a
+#EXTINF:-1 group-title="TTTT",Madani Chnl
+http://194.76.186.38:7002/play/a04j
+#EXTINF:-1 group-title="TTTT",NDTV 24x7
+http://194.76.186.38:7002/play/a05y
+#EXTINF:-1 group-title="TTTT",NOW 80s
+http://194.76.186.38:7002/play/a05x
+#EXTINF:-1 group-title="TTTT",NOW XMAS
+http://194.76.186.38:7002/play/a00x
+#EXTINF:-1 group-title="TTTT",New Vision TV
+http://194.76.186.38:7002/play/a01q
+#EXTINF:-1 group-title="TTTT",Newstalk
+http://194.76.186.38:7002/play/a02e
+#EXTINF:-1 group-title="TTTT",Nick Jr.
+http://194.76.186.38:7002/play/a024
+#EXTINF:-1 group-title="TTTT",NickJrPAWPatrol
+http://194.76.186.38:7002/play/a00f
+#EXTINF:-1 group-title="TTTT",Nickelodeon
+http://194.76.186.38:7002/play/a02g
+#EXTINF:-1 group-title="TTTT",Nicktoons
+http://194.76.186.38:7002/play/a01z
+#EXTINF:-1 group-title="TTTT",Noor TV
+http://194.76.186.38:7002/play/a05v
+#EXTINF:-1 group-title="TTTT",PBS America
+http://194.76.186.38:7002/play/a03c
+#EXTINF:-1 group-title="TTTT",PCNE Chinese
+http://194.76.186.38:7002/play/a02o
+#EXTINF:-1 group-title="TTTT",POP
+http://194.76.186.38:7002/play/a032
+#EXTINF:-1 group-title="TTTT",POP Max
+http://194.76.186.38:7002/play/a033
+#EXTINF:-1 group-title="TTTT",PTV Global
+http://194.76.186.38:7002/play/a06c
+#EXTINF:-1 group-title="TTTT",Paramount
+http://194.76.186.38:7002/play/a00e
+#EXTINF:-1 group-title="TTTT",Planet Rock
+http://194.76.186.38:7002/play/a05p
+#EXTINF:-1 group-title="TTTT",QUEST
+http://194.76.186.38:7002/play/a07v
+#EXTINF:-1 group-title="TTTT",Quest Red
+http://194.76.186.38:7002/play/a07w
+#EXTINF:-1 group-title="TTTT",ROK
+http://194.76.186.38:7002/play/a06s
+#EXTINF:-1 group-title="TTTT",RT
+http://194.76.186.38:7002/play/a06l
+#EXTINF:-1 group-title="TTTT",Radio X
+http://194.76.186.38:7002/play/a05k
+#EXTINF:-1 group-title="TTTT",Really
+http://194.76.186.38:7002/play/a03b
+#EXTINF:-1 group-title="TTTT",Really
+http://194.76.186.38:7002/play/a03a
+#EXTINF:-1 group-title="TTTT",Republic Bharat
+http://194.76.186.38:7002/play/a06p
+#EXTINF:-1 group-title="TTTT",S4C
+http://194.76.186.38:7002/play/a03t
+#EXTINF:-1 group-title="TTTT",SONY MAX 2
+http://194.76.186.38:7002/play/a06m
+#EXTINF:-1 group-title="TTTT",SONY SAB
+http://194.76.186.38:7002/play/a06i
+#EXTINF:-1 group-title="TTTT",SONY TV
+http://194.76.186.38:7002/play/a06f
+#EXTINF:-1 group-title="TTTT",Sangat
+http://194.76.186.38:7002/play/a04n
+#EXTINF:-1 group-title="TTTT",Sanskar
+http://194.76.186.38:7002/play/a01n
+#EXTINF:-1 group-title="TTTT",Scala Radio
+http://194.76.186.38:7002/play/a068
+#EXTINF:-1 group-title="TTTT",Showcase
+http://194.76.186.38:7002/play/a055
+#EXTINF:-1 group-title="TTTT",Sikh Channel
+http://194.76.186.38:7002/play/a013
+#EXTINF:-1 group-title="TTTT",Smithsonian
+http://194.76.186.38:7002/play/a02s
+#EXTINF:-1 group-title="TTTT",Smooth
+http://194.76.186.38:7002/play/a062
+#EXTINF:-1 group-title="TTTT",Sony Action
+http://194.76.186.38:7002/play/a02y
+#EXTINF:-1 group-title="TTTT",Sony Channel
+http://194.76.186.38:7002/play/a034
+#EXTINF:-1 group-title="TTTT",Sony Christmas
+http://194.76.186.38:7002/play/a030
+#EXTINF:-1 group-title="TTTT",Sony Movies
+http://194.76.186.38:7002/play/a02z
+#EXTINF:-1 group-title="TTTT",Spotlight TV
+http://194.76.186.38:7002/play/a012
+#EXTINF:-1 group-title="TTTT",Studio 66 3
+http://194.76.186.38:7002/play/a01i
+#EXTINF:-1 group-title="TTTT",TBN UK
+http://194.76.186.38:7002/play/a02r
+#EXTINF:-1 group-title="TTTT",TCM Movies
+http://194.76.186.38:7002/play/a02j
+#EXTINF:-1 group-title="TTTT",TJC
+http://194.76.186.38:7002/play/a05q
+#EXTINF:-1 group-title="TTTT",TLC
+http://194.76.186.38:7002/play/a07x
+#EXTINF:-1 group-title="TTTT",TLC HD
+http://194.76.186.38:7002/play/a03f
+#EXTINF:-1 group-title="TTTT",TRT World
+http://194.76.186.38:7002/play/a04d
+#EXTINF:-1 group-title="TTTT",TV Warehouse
+http://194.76.186.38:7002/play/a06u
+#EXTINF:-1 group-title="TTTT",TVC News
+http://194.76.186.38:7002/play/a04q
+#EXTINF:-1 group-title="TTTT",TWR
+http://194.76.186.38:7002/play/a066
+#EXTINF:-1 group-title="TTTT",TalkingPictures
+http://194.76.186.38:7002/play/a04y
+#EXTINF:-1 group-title="TTTT",Thane
+http://194.76.186.38:7002/play/a01g
+#EXTINF:-1 group-title="TTTT",Tiny Pop
+http://194.76.186.38:7002/play/a031
+#EXTINF:-1 group-title="TTTT",Together
+http://194.76.186.38:7002/play/a079
+#EXTINF:-1 group-title="TTTT",Trace Vault
+http://194.76.186.38:7002/play/a038
+#EXTINF:-1 group-title="TTTT",Trace Xmas
+http://194.76.186.38:7002/play/a03l
+#EXTINF:-1 group-title="TTTT",Travelxp
+http://194.76.186.38:7002/play/a06n
+#EXTINF:-1 group-title="TTTT",Tyne & Wear TV
+http://194.76.186.38:7002/play/a05d
+#EXTINF:-1 group-title="TTTT",UCB Ireland
+http://194.76.186.38:7002/play/a060
+#EXTINF:-1 group-title="TTTT",Venus TV
+http://194.76.186.38:7002/play/a04g
+#EXTINF:-1 group-title="TTTT",Virgin Radio
+http://194.76.186.38:7002/play/a065
+#EXTINF:-1 group-title="TTTT",Vox Africa
+http://194.76.186.38:7002/play/a04k
+#EXTINF:-1 group-title="TTTT",W
+http://194.76.186.38:7002/play/a017
+#EXTINF:-1 group-title="TTTT",W
+http://194.76.186.38:7002/play/a07h
+#EXTINF:-1 group-title="TTTT",WRN Europe
+http://194.76.186.38:7002/play/a05e
+#EXTINF:-1 group-title="TTTT",Word Network
+http://194.76.186.38:7002/play/a052
+#EXTINF:-1 group-title="TTTT",Xpanded TV
+http://194.76.186.38:7002/play/a051
+#EXTINF:-1 group-title="TTTT",Xpanded TV2
+http://194.76.186.38:7002/play/a04x
+#EXTINF:-1 group-title="TTTT",YANGA!
+http://194.76.186.38:7002/play/a05u
+#EXTINF:-1 group-title="TTTT",YESTERDAY
+http://194.76.186.38:7002/play/a07f
+#EXTINF:-1 group-title="TTTT",Zee TV
+http://194.76.186.38:7002/play/a02n
+#EXTINF:-1 group-title="TTTT",horror channel
+http://194.76.186.38:7002/play/a03j
+#EXTINF:-1 group-title="TTTT",iON TV
+http://194.76.186.38:7002/play/a057
+#EXTINF:-1 group-title="TTTT",mta-muslim tv
+http://194.76.186.38:7002/play/a02q
+#EXTINF:-1 group-title="TTTT",mytv
+http://194.76.186.38:7002/play/a05z
+#EXTINF:-1 group-title="TTTT",revelation
+http://194.76.186.38:7002/play/a02t
+#EXTINF:0 tvg-id="ext" group-title="TTTT",USEESPORT 1s
 https://vcdnjt.useetv.com/dass/15/useesport/chunklist_w1241634564_b894100_sleng_43197.m3u8
