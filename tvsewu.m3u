@@ -38,9 +38,9 @@ http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=HBO
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Cinema
 http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=MAX
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Red
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=RED
+http://185.238.0.145:1313/c/ku/see/p.php?a=5&b=13&c=2&d=RED
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIgNature
-http://185.238.0.145:1313/c/ku/see/c.php?a=5&b=13&c=2&d=SIG
+http://185.238.0.145:1313/c/ku/see/p.php?a=5&b=13&c=2&d=SIG
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USCEE",Horee HipHIp
