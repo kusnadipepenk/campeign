@@ -131,6 +131,8 @@ http://185.238.0.145:1313/c/ku/see/f.php?a=1458c6647dbf7cca56dff7bfe0576ebb&b=ge
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=08b00412925ca3fc9f19ad97fc52af0e&b=15&c=champion1&d=b684100
 #EXTINF:-1  tvg-logo="" group-title="rrr",Champion2
 http://185.238.0.145:1313/c/ku/see/d.m3u8?a=7f1e60a81b19143d67fa4a3d71c9e6c7&b=15&c=champion2&d=b684100
+#EXTINF:-1  tvg-logo="" group-title="rrr",Bein2u
+http://185.238.0.145:1313/c/ku/see/d.php?a=8492a79c13ef3e4c30f1872d75fd8e81&b=15&c=bein2&d=b684100
 #EXTINF:-1  group-title="rrr",Horee HipHIp
 http://185.238.0.145:1313/c/ku/see/f.php?a=0428be7495f8f382d0943cdd4738ffbb&b=geo_7052&c=480p
 #EXTINF:-1  group-title="rrr",Horeee
