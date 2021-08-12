@@ -1,6 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOsingapur
-http://fdtvapps.xyz/channel/hbo.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBO
 https://raw.githubusercontent.com/kusnadipepenk/campeign/master/hbo.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOFams
@@ -15,17 +14,6 @@ https://kusnadipepenk.github.io/campeign/hbored.m3u8
 https://kusnadipepenk.github.io/campeign/hbocinema.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",================================
 https://google.com
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",HBOtes
-http://me.zichannels.my.id/ch/hbo.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMILYtes
-http://me.zichannels.my.id/ch/family.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",MAXtes
-http://me.zichannels.my.id/ch/max.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",Hitstes
-http://me.zichannels.my.id/ch/hits.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",SIGNaturetes
-http://me.zichannels.my.id/ch/sighd.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",REDtes
-http://me.zichannels.my.id/ch/red.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="USHB",FAMtest
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
