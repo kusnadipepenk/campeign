@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2015-01-01T00:00:04.949256Z" publishTime="2020-05-23T23:47:08.181220Z" minimumUpdatePeriod="PT2S" minBufferTime="PT0S" timeShiftBufferDepth="PT1M" maxSegmentDuration="PT11S">
-  <Period id="1" start="PT0S">
-    <AdaptationSet id="1" group="1" mimeType="audio/mp4" lang="en" contentType="audio" minBandwidth="66000" maxBandwidth="98800" segmentAlignment="true">
-
