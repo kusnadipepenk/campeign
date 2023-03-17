@@ -1,7 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:5
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-mp4a_66000_ind=8.m3u8",GROUP-ID="audio-AACL-66",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-#EXT-X-MEDIA:TYPE=AUDIO,URI="https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-mp4a_98800_ind=9.m3u8",GROUP-ID="audio-AACL-99",LANGUAGE="id",NAME="Indonesian",DEFAULT=YES,AUTOSELECT=YES,CHANNELS="2"
-
-#EXT-X-STREAM-INF:BANDWIDTH=692727,AVERAGE-BANDWIDTH=629754,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=640x360,FRAME-RATE=25.000,HDCP-LEVEL=TYPE-0,AUDIO="audio-AACL-99"
-https://liveanevia.mncnow.id/live/eds/DisneyChannel/sa_hls/DisneyChannel-avc1_499968=4.m3u8
