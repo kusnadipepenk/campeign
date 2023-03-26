@@ -1,0 +1,28 @@
+
+#EXTM3U
+#EXTINF:0 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png " group-title="GRATIS",MNCTV
+http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704434&extension=ts
+
+#EXTINF:-1 group-title="GRATIS",True football 1
+https://kusnadipepenk.github.io/ntn/truf1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
+https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+
+#EXTINF:-1 group-title="GRATIS",Eleven Sport 1
+https://kusnadipepenk.github.io/ntn/elesp1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",HBO
+http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
+
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",SPOTV
+https://raw.githubusercontent.com/kusnadipepenk/ntn/master/coba.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",TVN MOVIES
+http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704464&extension=ts&play_token=jf9DmNb0lm
+
+#EXTINF:-1 group-title="GRATIS",Nick JR
+https://kusnadipepenk.github.io/campeign/nika.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",BBC Earth2
+https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
