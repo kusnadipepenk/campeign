@@ -13,13 +13,15 @@ https://kusnadipepenk.github.io/ntn/hgtv.m3u8
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",HBO
-http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
+https://kusnadipepenk.github.io/campeign/hbo.m3u8
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",SPOTV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",TVN MOVIES
-http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704464&extension=ts&play_token=jf9DmNb0lm
+https://kusnadipepenk.github.io/campeign/tvn.m3u8
+##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704464&extension=ts&play_token=jf9DmNb0lm
 
 #EXTINF:-1 group-title="GRATIS",Nick JR
 https://kusnadipepenk.github.io/campeign/nika.m3u8
