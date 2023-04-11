@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://cdnbpp1.indihometv.com/joss/134/inews/chunklist_w1561415821_b1004100_sleng.m3u8?enc=qWFJs1x_wBF82AxhX6e3uA&uid=&exp=1680226768
+http://iptvtree.net:8080/live/resplice/ZRjQaEa7z6uxRhd4/296695.m3u8
+##https://cdnbpp1.indihometv.com/joss/134/inews/chunklist_w1561415821_b1004100_sleng.m3u8?enc=qWFJs1x_wBF82AxhX6e3uA&uid=&exp=1680226768
 
 ##http://kuchini.site:8080/live/tomstme300/tomasarenatelegramme300/157579.m3u8
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683121&extension=m3u8&play_token=xdbt7BgLik
