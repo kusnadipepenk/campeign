@@ -16,6 +16,9 @@ https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 https://kusnadipepenk.github.io/campeign/hbo.m3u8
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
 
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",Indosiar
+https://kusnadipepenk.github.io/campeign/indos.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",SPOTV
 https://raw.githubusercontent.com/kusnadipepenk/ntn/master/spotv1.m3u8
 
