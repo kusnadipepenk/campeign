@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-https://cdn09jtedge.indihometv.com/dvr/139/antv/manifest.mpd?o1=1633427080&o2=1633427000&o3=1633429000&o4=1633427000&oa=1633427000
-##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683153&extension=m3u8&play_token=xdbt7BgLik
+http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=683153&extension=m3u8&play_token=xdbt7BgLik
 
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683153&extension=ts&play_token=RmFK3j6FUm
