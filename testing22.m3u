@@ -6,14 +6,14 @@ https://kusnadipepenk.github.io/campeign/skynew.m3u8
 #EXTINF:-1 group-title="GRATIS",True football 1
 https://kusnadipepenk.github.io/ntn/truf1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",HGTV
-https://kusnadipepenk.github.io/ntn/hgtv.m3u8
+#EXTINF:-1  tvg-logo="" group-title="KNOWLEDGE",Star Movies
+https://kusnadipepenk.github.io/ntn/strmvi.m3u8
 
 #EXTINF:-1 group-title="GRATIS",Eleven Sport 1
 https://kusnadipepenk.github.io/ntn/elesp1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="GRATIS",HBO
-https://kusnadipepenk.github.io/campeign/hbo.m3u8
+#EXTINF:-1  tvg-logo="" group-title="GRATIS",CNN
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_640x360_1200k.m3u8
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704461&extension=ts
 
 #EXTINF:-1  tvg-logo="" group-title="GRATIS",Indosiar
