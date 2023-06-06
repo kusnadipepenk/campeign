@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",RCTI
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683099&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",SCTV
+https://kusnadipepenk.github.io/campeign/sctv.m3u8
+##http://210.210.155.35:80/session/65729a3e-2ecf-11eb-b0a7-c81f66f89318/qwr9ew/s/s03/02.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",MNCtv
+http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683098&extension=m3u8&play_token=xdbt7BgLik
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/da/Local_Television_Limited_logo.png" group-title="LOKAL NASIONAL",INDOSIAR
+https://kusnadipepenk.github.io/campeign/indos.m3u8
