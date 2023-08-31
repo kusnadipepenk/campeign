@@ -1,11 +1,50 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/01/film-plane-2023-lk21-d21.jpg" group-title="VOD International",1^ Plane (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=aadfb7efe9d8891ba804b874e37fcf5f4c588312
+https://you.wendiella.sbs/xxx/plane-2023/4/480.m3u8
+
+#EXTINF:0 tvg-logo="http://cgvindo.site/wp-content/uploads/2023/04/liLN69YgoovHVgmlHJ876PKi5Yi.jpg" group-title="VOD International",2^ Ghosted (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=e9d48d4b6beca58d567cfc87f50a5741fa0e6404
+https://you.wendiella.sbs/xxx/ghosted-2023/9/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2023/04/film-65-2023-lk21-d21.jpg" group-title="VOD International",3^ 65 (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=692e0322d3b9a47ecbbe1bfa47f1d96fe51704e4
+https://you.wendiella.sbs/xxx/65-2023/9/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s7.makimbo.xyz/wp-content/uploads/2023/04/film-hunger-2023-lk21-d21.jpg" group-title="VOD International",4^ Hunger (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=7a0b68b6cb9a88914bc694a5ae64e536e5c8dd8e
+https://you.wendiella.sbs/xxx/hunger-2023/9/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s2.makimbo.xyz/wp-content/uploads/2023/03/film-operation-fortune-ruse-de-guerre-2023-lk21-d21.jpg" group-title="VOD International",5^ Operation Fortune (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=a36699c2fe4f1590bb084e136579072ca8403829
+https://you.wendiella.sbs/xxx/operation-fortune-ruse-de-guerre-2023/4/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s4.makimbo.xyz/wp-content/uploads/2023/04/film-the-last-kingdom-seven-kings-must-die-2023-lk21-d21.jpg" group-title="VOD International",6^ The Last Kingdom - Seven Kings Must Die (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=095354e25b7cdc4e50efa9c14ae2957b75c3b04b
+https://you.wendiella.sbs/xxx/the-last-kingdom-seven-kings-must-die-2023/9/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s1.makimbo.xyz/wp-content/uploads/2023/04/film-shazam-fury-of-the-gods-2023-lk21-d21.jpg" group-title="VOD International",7^ Shazam (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=23c896c7bfcc1b668ebbc7fdb2833f728787b85c
+https://you.wendiella.sbs/xxx/shazam-fury-of-the-gods-2023/8/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s3.makimbo.xyz/wp-content/uploads/2023/04/film-creed-iii-2023-lk21-d21.jpg" group-title="VOD International",8^ Creed III (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=6cc7983f639d1d9a4d3343cd9d84c32347e65dfe
+https://you.wendiella.sbs/xxx/creed-iii-2023/6/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s5.makimbo.xyz/wp-content/uploads/2023/03/film-tetris-2023-lk21-d21.jpg" group-title="VOD International",9^ Tetris (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=618c6d4355ae0a42c3a0f3d47defa879bd54f382
+https://you.wendiella.sbs/xxx/tetris-2023/8/480.m3u8
+
+#EXTINF:0 tvg-logo="https://s0.makimbo.xyz/wp-content/uploads/2023/03/film-assassin-2023-lk21-d21.jpg" group-title="VOD International",10^ Assassin (2023)
+#EXTVLCOPT:http-referrer=https://you.wendiella.sbs/new1.php?id=3ddda4defd1a02dddc79da68f653f2f48af4a760
+https://you.wendiella.sbs/xxx/assassin-2023/6/480.m3u8
+
+#EXTINF:0 tvg-logo="http://cgvindo.site/wp-content/uploads/2023/05/3BSxAjiporlwQTWzaHZ9Yrl5C9D.jpg" group-title="VOD International",11^ AKA (2023)
+#EXTVLCOPT:http-referrer=http://172.96.161.72/
+http://23.226.71.77/uvt04xFnBFHQ33gasPEdli3kYqCQNdSJbHdv93DEB8qdd1CuHYaWVb_XmLmD-Au0eKq_Yz9bh6T95Gt7Fpg9CA/LT-2yNnbmQzoRVduBalNmWZVJdY9MFt-SPDCmEpTIyw/1080.m3u8
+
+
 #EXTINF:0 tvg-logo="http://cgvindo.site/wp-content/uploads/2023/03/t2NEaFrNFRCrBIyAETlz5sqq15H.jpg" group-title="VOD International",12^ Scream VI (2023)
-#EXTVLCOPT:sub-file=http://23.226.71.77/znPWCgtu-0BJ2x7yhuPCIyHnR5NBkgYZ2L8aeBUoVeNGRpEs8IJ7wuvZ3zfsk4bt9Y0ME8ukyKY1uePeRkERUw/OTM58Bv1J6SXWFyYVBbnYgocEwgMhh9O0ixCN4bWNXU/thumbnail.vtt
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
 #EXTVLCOPT:http-referrer=http://172.96.161.72/
 http://23.226.71.77/Rg-NqEVpl6xrkoe4N1pWjUDz6DfW4gfdQVUmfCQEdzvo5u5KmqQyMMxD1-J_dtAeFFEwzbk04KsWnfh3vAd45g/xPlQ2QeZIoPbRZEJ9itCB2Ao1saU2ZEeJ2rT5MmWajU/1080.m3u8
 
@@ -31,11 +70,9 @@ https://punya.mammothtv.my.id/vod/2023/sharper.m3u8
 https://punya.mammothtv.my.id/vod/2023/teen-wolf.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSymySJ_66ZfYzvW1VYzgojhix7L4QcmOxP2w&usqp=CAU" group-title="VOD International",20.Big George Foreman (2023)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
 https://punya.mammothtv.my.id/vod/2023/big-george-foreman.m3u8
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSehGxbPlvNA3tvO2LpVXH8JTkDQ2uJQks92eTRIQPRu6Z2GYrbHko7g-U&s=10" group-title="VOD International",21.Air (2023)
-#EXTVLCOPT:http-referrer=http://172.96.161.72/
 https://punya.mammothtv.my.id/vod/2023/air.m3u8
 
 #EXTINF:0 tvg-logo="https://cds.bet/wp-content/uploads/2023/03/vZloFAK7NmvMGKE7VkF5UHaz0I-146x218.jpg" group-title="VOD International",22.John Wick - Chapter 4 (2023)
