@@ -1,8 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://37.49.230.42:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299483.m3u8
-##https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8
-##
+https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8
+##http://37.49.230.42:8080/live/supermediatv/kDV7uQaQKRW5XwQd/299483.m3u8
 ###http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683099&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683099&extension=ts&play_token=RmFK3j6FUm
