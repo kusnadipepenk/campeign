@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup4/cg404production/ch339/02.m3u8
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683148&extension=m3u8&play_token=xdbt7BgLik
 
 ##http://cod5.me/play/live.php?mac=00:1a:79:1e:4f:3a&stream=704465&extension=ts&play_token=jf9DmNb0lm
