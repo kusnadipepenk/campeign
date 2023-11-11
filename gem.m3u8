@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1000000
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/02.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/Stream(02)/index.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://edge.linknetott.swiftserve.com/channelgroup3/cg311production/ch3400/03.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3400%29/Stream(01)/index.m3u8
