@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://edge.linknetott.swiftserve.com/channelgroup5/cg521production/ch338/02.m3u8
-##http://185.243.7.13/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683130&extension=m3u8&play_token=xdbt7BgLik
-
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683130&extension=m3u8&play_token=xdbt7BgLik
+##http://edge.linknetott.swiftserve.com/channelgroup5/cg521production/ch338/02.m3u8
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683130&extension=ts&play_token=RmFK3j6FUm
