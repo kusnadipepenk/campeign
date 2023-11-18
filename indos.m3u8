@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
+http://103.166.27.2:8112/play/a016/index.m3u8
+##http://op-group1-swiftservehd-1.dens.tv/h/h207/01.m3u8
 ###http://edge.linknetott.swiftserve.com/channelgroup3/cg331production/ch8/02.m3u8
 ##http://protv.fun:80/play/live.php?mac=00:1a:79:50:63:9e&stream=994885&extension=m3u8&play_token=xdbt7BgLik
 ##http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
