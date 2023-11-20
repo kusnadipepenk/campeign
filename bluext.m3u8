@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch330%29/Stream(02)/index.m3u8
+##http://edge.linknetott.swiftserve.com/channelgroup2/cg255production/ch330/02.m3u8
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=463654&extension=m3u8
 
 ##http://210.210.155.35:80/dr9445/h/h15/01.m3u8
