@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+http://210.210.155.35/uq2663/h/h223/02.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
+##http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 ##http://210.210.155.37/uq2663/h/h06/01.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683093&extension=m3u8
 ##
