@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h225/01.m3u8
+##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
 ##https://op-group2-swiftservehd-1.dens.tv/h/h10/index.m3u8
 ##http://210.210.155.37/dr9445/h/h10/01.m3u8
 
