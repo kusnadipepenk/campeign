@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=133974&extension=m3u8
+##http://livein1.com:8080/play/live.php?mac=00:1a:79:b1:85:5e&stream=133974&extension=m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=174668&extension=m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=45572&extension=m3u8
 ##http://103.167.167.5:8111/play/a016/index.m3u8
