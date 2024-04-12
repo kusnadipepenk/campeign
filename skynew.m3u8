@@ -3,10 +3,10 @@
 http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=554979
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=80627&extension=m3u8
 
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1209781,RESOLUTION=768x432
-https://d301yv2uyy17su.cloudfront.net/04_hd.m3u8
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2322454,RESOLUTION=1024x576
-https://d301yv2uyy17su.cloudfront.net/05_hd.m3u8
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1209781,RESOLUTION=768x432
+##https://d301yv2uyy17su.cloudfront.net/04_hd.m3u8
+###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2322454,RESOLUTION=1024x576
+##https://d301yv2uyy17su.cloudfront.net/05_hd.m3u8
 
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:c0:86:ea&stream=80627&extension=m3u8
 
