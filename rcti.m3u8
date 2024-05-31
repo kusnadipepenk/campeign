@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-https://s.id/25Zmk
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.m3u8
+##https://s.id/25Zmk
 ##http://rayantv.org/play/live.php?mac=00:1A:79:E5:7A:C1&stream=683099&extension=m3u8
 ##http://muka03.wanicelife.com:8880/live/3ca7043n04/asfde32e2/60479.m3u8
 ##https://nyanv-live-cdn.mncnow.id/live/eds/rcti-2/sa_hls/rcti-2-avc1_2499968=3-mp4a_98800=2.m3u8
