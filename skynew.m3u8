@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=554979
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:1c:5d:9e&stream=2228&extension=m3u8
+###http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=554979
 ##http://45.139.122.199:8080/play/live.php?mac=00:1A:79:bf:ce:d5&stream=80627&extension=m3u8
 
 ###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1209781,RESOLUTION=768x432
