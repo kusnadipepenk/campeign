@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=683149
+http://extraott.com:80/live/6945574629/7169628753/157041.m3u8
+##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=683149
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch343%29/Stream(02)/index.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683149&extension=m3u8
 ##http://edge.linknetott.swiftserve.com/channelgroup3/cg338production/ch343/02.m3u8
