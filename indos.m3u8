@@ -1,7 +1,6 @@
 #EXTM3U
 #EXT-X-TARGETDURATION:2
 #EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
 #EXTVLCOPT:http-reconnect=true
 http://vipdikili.top:8080/live/VIP017141733137332272/37ede1a839db/34327.m3u8
 ###https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
