@@ -1,6 +1,9 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2000000
-http://extraott.com:80/live/6945574629/7169628753/157041.m3u8
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:2
+#EXTVLCOPT:network-caching=2500
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/105862
 ####http://line.gofast-tv.me/play/live.php?mac=00:1A:79:B1:30:05&stream=683166&extension=m3u8
 ##http://protv.fun:80/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683166&extension=m3u8&play_token=xdbt7BgLik
