@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://mu3241218.oknirvana.club:8880/live/6mk140000/87667788/28942.m3u8
+http://extraott.com:900/live/6945574629/7169628753/153713.m3u8
+###http://mu3241218.oknirvana.club:8880/live/6mk140000/87667788/28942.m3u8
 ###http://170.254.18.106/PARAMOUNT/tracks-v1a1/mono.m3u8
 ##http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&extension=m3u8&stream=176904
 ##http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch309%29/Stream(02)/index.m3u8
