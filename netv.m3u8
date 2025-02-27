@@ -1,11 +1,11 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+http://iptv12k.com:35461/live/654321/123456/2186.m3u8
+###http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 ##http://210.210.155.35/uq2663/h/h223/02.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
 ##http://210.210.155.37/uq2663/h/h06/01.m3u8
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683093&extension=m3u8
-##
 ##http://protv.fun:80/play/live.php?mac=00:1a:79:6f:5a:5d&stream=683093&extension=m3u8&play_token=xdbt7BgLik
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683093&extension=ts&play_token=RmFK3j6FUm
 ##http://4ksuper.live/play/live.php?mac=00:1a:79:50:63:9e&stream=683093&extension=m3u8&play_token=xdbt7BgLik
