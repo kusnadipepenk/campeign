@@ -1,16 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTVLCOPT:network-caching=10000
-#EXTVLCOPT:http-reconnect=true
-#EXTINF:1,
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/24
-
-
-##EXTM3U
-###EXT-X-VERSION:3
-###EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
 ##http://iptv12k.com:35461/live/654321/123456/2186.m3u8
 ###http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 ##http://210.210.155.35/uq2663/h/h223/02.m3u8?app_type=web&userid=4rr0w&tkn=bl4ck&chname=K-PLUS_HD
