@@ -2,6 +2,6 @@
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3500000
-http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=658434&extension=ts&play_token=9fIbEZhBfE
+http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=658434&extension=m3u8&play_token=9fIbEZhBfE
 ##http://extraott.com:900/live/6945574629/7169628753/13780.m3u8
 ###http://mu3241218.oknirvana.club:8880/live/6mk140000/87667788/28946.m3u8
