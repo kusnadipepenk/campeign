@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X;Windows NT 10.0; Win64; x64) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1 VLC/3.2.21 LibVLC/3.2.21 ExoPlayerDemo/2.15.1 (Linux; Android 13) YouTV/1.8.1-prod.release+d73ba1cb (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXT-X-STREAM-INF:BANDWIDTH=4000000
-http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666241.m3u8
+##http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 
 ##EXTM3U
