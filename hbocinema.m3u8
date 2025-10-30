@@ -2,7 +2,9 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341564&extension=m3u8&play_token=22H08SjYf7
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444180.m3u8
+##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=341564&extension=m3u8&play_token=22H08SjYf7
+##
 ###http://45.129.133.15:8080/live/3f6d5b2f/4b60123137/197964.m3u8
 ##http://185.243.7.13/play/live.php?mac=00:1a:79:45:5e:9a&stream=154811&extension=m3u8&play_token=xdbt7BgLik683161
 ##http://applyrenderflow.h1ott.com:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=683161&extension=ts&play_token=RmFK3j6FUm
