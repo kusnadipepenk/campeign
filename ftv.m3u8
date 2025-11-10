@@ -1,5 +1,10 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=2000000,RESOLUTION=1920x1080
+#EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.program_number=350997
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400225153.m3u8
 ##http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=536459&extension=m3u8
 ##http://4ksuper.live/play/live.php?mac=00:1A:79:B1:30:05&stream=683121&extension=m3u8
