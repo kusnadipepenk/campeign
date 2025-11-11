@@ -5,15 +5,7 @@
 #KODIPROP:inputstream.ffmpegdirect.program_number=350997
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #EXT-X-STREAM-INF:BANDWIDTH=3000000,RESOLUTION=1920x1080
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:11
-#EXTINF:10.120000,
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
-#EXTINF:10.120000,
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
-#EXTINF:10.120000,
-http://aromatv.co:80/Enjy3637/4JFEBAs359/444180
+http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444180.m3u8
 
 
 ##https://iptv.lancartech.co.id:443/live/Farhan@90/18062025/48.m3u8
