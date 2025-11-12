@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080
-http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/401666250.m3u8
+##http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444177.m3u8
 ##http://tbtv.me:2095/play/live.php?mac=00:1A:79:E7:32:0C&stream=186507&extension=m3u8&play_token=
 ##http://45.144.165.187:8080/live/playid168/12345/77.m3u8
 ##http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/306484.m3u8
