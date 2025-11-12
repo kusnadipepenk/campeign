@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-https://smt.858.qzz.io/Smart.php?id=KBS
+http://125.227.210.55:17478/VideoInput/play.m3u8
+
 ##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191953.m3u8
 ##http://aromatv.co:80/live/Enjy3637/4JFEBAs359/429660.ts
 ##http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683103&extension=m3u8&play_token=
