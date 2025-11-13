@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://op-group1-swiftservehd-1.dens.tv/h/h243/02.m3u8
 ##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191953.m3u8
