@@ -1,15 +1,7 @@
-##EXTM3U
-###EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2521
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-#EXTINF:10.000000,
-http://103.46.10.145:9981/stream/channelid/1475489798?ticket=8A2CAA002E4569E57639C85180E5944738A7D6A9&profile=pass
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191955.m3u8
 ##https://smt.858.qzz.io/Smart.php?id=Kplus
-##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/191955.m3u8
 ##http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8?app_type=web&userid=lite&chname=K-PLUS_HD
 ##http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/Kplus/playlist.m3u8
 ###http://op-group1-swiftservehd-1.dens.tv/h/h08/01.m3u8
