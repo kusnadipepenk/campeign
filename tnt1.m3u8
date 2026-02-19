@@ -1,6 +1,8 @@
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,RESOLUTION=1920x1080
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153715.m3u8
+http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=79486&extension=m3u8
+##https://dhoomtv.xyz:443/P4B9TB9xR8/humongous2tonight/186627
+##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/153715.m3u8
 ##http://dream4ktv.net:80/play/live.php?mac=00:1a:79:d0:bf:09&stream=658434&extension=m3u8&play_token=9fIbEZhBfE
 ##http://extraott.com:900/live/6945574629/7169628753/13780.m3u8
 ###http://mu3241218.oknirvana.club:8880/live/6mk140000/87667788/28946.m3u8
