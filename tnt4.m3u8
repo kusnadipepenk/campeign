@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894980&extension=m3u8
 ##http://slayerteam.in.rs:80/play/live.php?mac=00:1B:79:F0:81:7F&stream=1002857&extension=m3u8&play_token=LoOlrSiI1b
 ##https://dhoomtv.xyz:443/P4B9TB9xR8/humongous2tonight/186630
 ##http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/13717.m3u8
