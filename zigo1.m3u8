@@ -1,8 +1,7 @@
 #EXTM3U
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=534440&extension=m3u8
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=894968&extension=m3u8
 
 
 
