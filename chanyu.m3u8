@@ -1,5 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000
-http://live1.pro2cdnlive.com:80/live/channel13.flv?wsSecret=ca02982c3874b81ccfff6c7e388d965a&wsABSTime=1757029785 
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/21.m3u8
+##http://live1.pro2cdnlive.com:80/live/channel13.flv?wsSecret=ca02982c3874b81ccfff6c7e388d965a&wsABSTime=1757029785 
 
