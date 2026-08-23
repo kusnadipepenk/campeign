@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:3B:4A:A8&stream=855740&extension=m3u8
+http://103.176.90.140:80/play/live.php?mac=00:1b:79:4c:95:a7&stream=1917790&extension=m3u8&play_token=83h4LchywQ
 
 
 ##http://aromatv.co:80/live/Enjy3637/4JFEBAs359/444180.m3u8
