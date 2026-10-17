@@ -1,2 +1,4 @@
-
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
 https://iptv.lancartech.co.id:443/Wawan007/Wawan1234/11.m3u8
