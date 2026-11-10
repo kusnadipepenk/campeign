@@ -1,6 +1,7 @@
 #EXTM3U
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=4000000
-http://iptv.kilas7.com:80/live/kaukia/asdfrewq/14.m3u8
+http://filex.me:8080/live/1234567/7654321/302245.ts
+##http://iptv.kilas7.com:80/live/kaukia/asdfrewq/14.m3u8
 ###EXTVLCOPT:http-referrer=http://dens.tv
 ###http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
 
